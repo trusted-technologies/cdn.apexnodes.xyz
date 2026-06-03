@@ -83,7 +83,7 @@ Pliki funkcjonalne umożliwiają Serwisowi zapamiętanie wybranych przez użytko
 - Zapamiętanie wybranego języka interfejsu (polski, angielski i inne dostępne)
 - Zapamiętanie preferencji wyglądu panelu (motyw jasny/ciemny)
 - Zapamiętanie ustawień widoku listy serwerów/usług
-- Przechowywanie informacji o zaakceptowanych kategoriach cookies (po wdrożeniu mechanizmu zgody)
+- Przechowywanie informacji o zaakceptowanych kategoriach cookies
 - Zapamiętanie wybranych filtrów i sortowań w widokach list
 
 Okres przechowywania: od **30 dni do 12 miesięcy**, w zależności od konkretnej funkcji.
@@ -127,11 +127,34 @@ Administrator nie ma wpływu na zakres i treść plików cookies stosowanych prz
 | **eNom (Tucows Inc.)** | Rejestracja domen | Przekierowanie do panelu rejestratora przy zamawianiu domen — cookies sesyjne eNom |
 | **Hetzner Online GmbH** | Serwery dedykowane (dediki) | Przekierowanie do systemu zamawiania serwerów dedykowanych — cookies Hetzner |
 
-### 5.4. Cloudflare (opcjonalnie)
+### 5.4. Cloudflare, Inc.
 
-Jeśli wykorzystujemy usługi Cloudflare, Inc. do optymalizacji i zabezpieczenia Serwisu, mogą być stosowane pliki cookies:
-- `__cfduid` / `__cf_bm` — identyfikacja ruchu zabezpieczającego, rozróżnienie użytkowników od botów
-- Polityka prywatności Cloudflare: [https://www.cloudflare.com/privacypolicy/](https://www.cloudflare.com/privacypolicy/)
+Wykorzystujemy usługi Cloudflare, Inc. (101 Townsend St, San Francisco, CA 94107, USA) do optymalizacji wydajności, zabezpieczenia Serwisu oraz ochrony przed atakami DDoS. Cloudflare może stosować następujące pliki cookies:
+
+| Plik cookie | Cel | Okres przechowywania |
+|---|---|---|
+| `__cf_bm` | Rozróżnienie użytkowników od botów, ochrona przed abuse | Do 30 minut |
+| `__cfduid` (przestarzałe) | Identyfikacja ruchu zabezpieczającego | Do 30 dni |
+| `_cfuvid` | Poprawa wydajności połączeń z Cloudflare | Sesja |
+
+Więcej informacji: [https://www.cloudflare.com/privacypolicy/](https://www.cloudflare.com/privacypolicy/)
+
+### 5.5. StormWall
+
+Wykorzystujemy usługi StormWall LLC do ochrony Serwisu przed atakami DDoS i filtrowania ruchu sieciowego. StormWall może stosować pliki cookies niezbędne do:
+- Weryfikacji źródła żądania i ochrony przed atakami
+- Utrzymania sesji weryfikacyjnej podczas filtrowania ruchu
+- Zapamiętania statusu weryfikacji użytkownika
+
+Więcej informacji: [https://stormwall.pro/privacy-policy](https://stormwall.pro/privacy-policy)
+
+### 5.6. GitHub Pages
+
+Część zasobów statycznych Serwisu może być hostowana za pośrednictwem GitHub Pages (GitHub, Inc., 88 Colin P. Kelly Jr. St, San Francisco, CA 94107, USA). GitHub może stosować pliki cookies niezbędne do:
+- Dostarczania zasobów statycznych (obrazy, skrypty, arkusze stylów)
+- Zapewnienia bezpieczeństwa i niezawodności hostingu
+
+Polityka prywatności GitHub: [https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement)
 
 ---
 
@@ -150,16 +173,16 @@ Jeśli wykorzystujemy usługi Cloudflare, Inc. do optymalizacji i zabezpieczenia
 
 ## 7. Zarządzanie plikami cookies
 
-### 7.1. Mechanizm zgody na cookies (w przygotowaniu)
+### 7.1. Mechanizm zgody na cookies
 
-Informujemy, że w najbliższym czasie planujemy wdrożenie mechanizmu zarządzania zgodami na cookies (cookie consent banner), który umożliwi użytkownikom:
+Serwis wyposażony jest w mechanizm zarządzania zgodami na cookies (cookie consent banner), który umożliwia użytkownikom:
 - Akceptację wszystkich kategorii cookies
 - Odrzucenie cookies opcjonalnych (analitycznych i funkcjonalnych)
 - Szczegółowy wybór poszczególnych kategorii
 - Wycofanie zgody w dowolnym momencie
 - Dostęp do szczegółowych informacji o cookies
 
-Do momentu wdrożenia mechanizmu zgody, korzystanie z Serwisu oznacza akceptację stosowanych plików cookies zgodnie z niniejszą Polityką.
+Pliki cookies techniczne (niezbędne) są aktywne niezależnie od wyboru użytkownika i nie mogą zostać wyłączone, ponieważ są wymagane do prawidłowego funkcjonowania Serwisu. Pliki analityczne i funkcjonalne są aktywowane wyłącznie po wyrażeniu przez użytkownika odpowiedniej zgody.
 
 ### 7.2. Jak wyłączyć cookies w przeglądarce?
 
