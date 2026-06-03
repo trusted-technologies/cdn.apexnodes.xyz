@@ -12,7 +12,7 @@
 
 1.4. Kontakt z Usługodawcą: **admin@apexnodes.xyz**
 
-1.5. Regulamin jest dostępny pod adresem: **https://apexnodes.xyz/regulamin** w sposób umożliwiający jego pobranie i wydrukowanie.
+1.5. Regulamin jest dostępny pod adresem: **https://cdn.apexnodes.xyz/documents/terms-and-conditions** w sposób umożliwiający jego pobranie i wydrukowanie.
 
 1.6. Usługodawca zastrzega sobie prawo do zmiany Regulaminu. Zmiany wchodzą w życie po upływie **14 dni** od daty ich opublikowania w Serwisie, z wyjątkiem zmian korzystnych dla Klientów, które wchodzą w życie natychmiast. O każdej zmianie Regulaminu Usługodawca poinformuje Klientów poprzez:
 - opublikowanie zaktualizowanej wersji Regulaminu w Serwisie;

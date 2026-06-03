@@ -279,7 +279,7 @@ W przypadku stwierdzenia naruszenia ochrony danych osobowych, które może skutk
 
 ## 12. Ciasteczka (cookies) i technologie śledzące
 
-Szczegółowe informacje o plikach cookies stosowanych w Serwisie — rodzajach, celach, okresie przechowywania oraz podmiotach je stosujących — znajdują się w odrębnym dokumencie: **Polityce Cookies**, dostępnej pod adresem: **https://apexnodes.xyz/cookies**.
+Szczegółowe informacje o plikach cookies stosowanych w Serwisie — rodzajach, celach, okresie przechowywania oraz podmiotach je stosujących — znajdują się w odrębnym dokumencie: **Polityce Cookies**, dostępnej pod adresem: **https://cdn.apexnodes.xyz/documents/cookie-policy**.
 
 ---
 
