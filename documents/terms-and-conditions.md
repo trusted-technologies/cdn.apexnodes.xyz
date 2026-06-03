@@ -84,12 +84,12 @@ Na potrzeby niniejszego Regulaminu stosuje się następujące definicje:
 |---|---|---|
 | **Game Server** | Serwery gier (m.in. Minecraft, Terraria, ARK, GTA i inne) | Pterodactyl (panel.apexnodes.xyz) |
 | **Game Server (Premium)** | Serwery gier na wyższej jakości infrastrukturze | Pterodactyl (panel.apexnodes.xyz) |
-| **Script Hosting** | Hosting skryptów i aplikacji | ISPmanager (web.apexnodes.xyz:1500) |
+| **Script Hosting** | Hosting skryptów i aplikacji | Pterodactyl (panel.apexnodes.xyz) |
 | **Website Hosting** | Hosting stron internetowych | ISPmanager (web.apexnodes.xyz:1500) |
-| **Virtual Servers** | Serwery wirtualne (VPS) | SolusVM (solusvm.apexnodes.xyz) |
-| **Virtual Servers (HI-CPU)** | Serwery wirtualne z wysokowydajnymi procesorami | SolusVM (solusvm.apexnodes.xyz) |
-| **Dedicated Servers** | Serwery dedykowane | SolusVM / Hetzner |
-| **Rejestracja domen** | Rejestracja i zarządzanie domenami internetowymi | WHMCS + eNom |
+| **Virtual Servers** | Serwery wirtualne (VPS) | SolusVM (solusvm.apexnodes.xyz, solusvm.msk.sh) |
+| **Virtual Servers (HI-CPU)** | Serwery wirtualne z wysokowydajnymi procesorami | SolusVM (solusvm.apexnodes.xyz, solusvm.msk.sh) |
+| **Dedicated Servers** | Serwery dedykowane | WHMCS (apexnodes.xyz) |
+| **Rejestracja domen** | Rejestracja i zarządzanie domenami internetowymi | WHMCS (apexnodes.xyz) |
 
 5.2. Szczegółowe parametry każdej Usługi (moc obliczeniowa, pamięć RAM, przestrzeń dyskowa, limit transferu, liczba baz danych, kopii zapasowych, portów) określone są w opisie konkretnego planu w Cenniku.
 
