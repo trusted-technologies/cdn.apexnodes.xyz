@@ -1,415 +1,408 @@
-# Regulamin Świadczenia Usług Droga Elektroniczną
+# Terms and Conditions of Electronic Services
 
 ---
 
-## 1. Postanowienia wstępne
+## 1. General provisions
 
-1.1. Niniejszy Regulamin określa zasady korzystania z serwisu internetowego **apexnodes.xyz** wraz z poddomenami, panelami klienta oraz powiązanymi systemami (dalej: "Serwis"), warunki zawierania umów o świadczenie usług droga elektroniczną, a także prawa i obowiązki stron.
+1.1. These Terms and Conditions set out the rules for using the **apexnodes.xyz** website together with subdomains, client panels, and related systems (hereinafter: the "Service"), the conditions for concluding contracts for the provision of electronic services, as well as the rights and obligations of the parties.
 
-1.2. Właścicielem i administratorem Serwisu jest **Trusted Technologies Sp. z o.o.** z siedzibą w Częstochowie, wpisana do rejestru przedsiębiorców Krajowego Rejestru Sądowego prowadzonego przez Sąd Rejonowy w Częstochowie, XVII Wydział Gospodarczy KRS, pod numerem KRS: **0001242922**, NIP: **5732973199**, REGON: **544825601**, o kapitale zakładowym w wysokości **5 000,00 PLN** (dalej: "Usługodawca" lub "Administrator").
+1.2. The Service is operated by the administrator of the **apexnodes.xyz** website (hereinafter: the "Service Provider" or "Administrator").
 
-1.3. Adres siedziby i adres do korespondencji: ul. Łódzka 8/12, lok. 8.18, 42-202 Częstochowa, Polska.
+1.3. Contact with the Service Provider: **admin@apexnodes.xyz**
 
-1.4. Kontakt z Usługodawcą: **admin@apexnodes.xyz**
+1.4. The Terms and Conditions are available at: **https://cdn.apexnodes.xyz/documents/terms-and-conditions** in a manner enabling their downloading and printing.
 
-1.5. Regulamin jest dostępny pod adresem: **https://cdn.apexnodes.xyz/documents/terms-and-conditions** w sposób umożliwiający jego pobranie i wydrukowanie.
+1.5. The Service Provider reserves the right to change these Terms and Conditions. Changes enter into force after **14 days** from the date of their publication on the Service, except for changes favorable to Customers, which enter into force immediately. The Service Provider will inform Customers of each change to the Terms and Conditions by:
+- publishing the updated version of the Terms and Conditions on the Service;
+- sending an e-mail notification to the contact address assigned to the account;
+- a message in the WHMCS client panel upon next login.
 
-1.6. Usługodawca zastrzega sobie prawo do zmiany Regulaminu. Zmiany wchodzą w życie po upływie **14 dni** od daty ich opublikowania w Serwisie, z wyjątkiem zmian korzystnych dla Klientów, które wchodzą w życie natychmiast. O każdej zmianie Regulaminu Usługodawca poinformuje Klientów poprzez:
-- opublikowanie zaktualizowanej wersji Regulaminu w Serwisie;
-- wysłanie powiadomienia e-mail na adres kontaktowy przypisany do konta;
-- komunikat w panelu klienta WHMCS przy kolejnym logowaniu.
+1.6. Using the Service after the changes to the Terms and Conditions enter into force constitutes acceptance of those changes.
 
-1.7. Korzystanie z Serwisu po wejściu w życie zmian Regulaminu oznacza ich akceptację.
-
-1.8. Regulamin jest integralną częścią każdej umowy zawieranej za pośrednictwem Serwisu.
+1.7. These Terms and Conditions are an integral part of every contract concluded via the Service.
 
 ---
 
-## 2. Definicje
+## 2. Definitions
 
-Na potrzeby niniejszego Regulaminu stosuje się następujące definicje:
+For the purposes of these Terms and Conditions, the following definitions apply:
 
-- **Regulamin** — niniejszy dokument;
-- **Usługodawca** — Trusted Technologies Sp. z o.o.;
-- **Klient** — osoba fizyczna, osoba prawna lub jednostka organizacyjna nieposiadająca osobowości prawnej, która posiada konto w Serwisie;
-- **Konsument** — Klient będący osobą fizyczną zawierającą umowę bezpośrednio niezwiązaną z jej działalnością gospodarczą lub zawodową;
-- **Przedsiębiorca** — Klient niebędący Konsumentem;
-- **Użytkownik** — osoba korzystająca z Serwisu;
-- **Usługa** — usługa świadczona droga elektroniczną przez Usługodawcę na rzecz Klienta, wymieniona w Serwisie;
-- **Panel Klienta** — system WHMCS dostępny pod adresem **apexnodes.xyz**, służący do zarządzania usługami;
-- **Panel Zarządzania** — systemy Pterodactyl (panel.apexnodes.xyz), SolusVM (solusvm.apexnodes.xyz, solusvm.msk.sh), ISPmanager (web.apexnodes.xyz:1500), phpMyAdmin (pma.apexnodes.xyz) oraz inne systemy udostępnione Klientowi do zarządzania Usługami;
-- **Cennik** — zestawienie oferowanych Usług wraz z cenami, dostępne pod adresem: **https://apexnodes.xyz/store/**;
-- **Automatyczne Odnawianie** — funkcjonalność automatycznego przedłużenia Usługi na kolejny okres;
-- **Zamrożenie** — czasowe zawieszenie dostępu do Usługi wraz z zachowaniem danych;
-- **Konto** — indywidualne konto Klienta w systemie WHMCS;
-- **Zgoda na Wykonanie** — wyraźna zgoda Klienta na natychmiastowe rozpoczęcie świadczenia Usługi, skutkująca utratą prawa do odstąpienia od umowy.
-
----
-
-## 3. Wymagania techniczne
-
-3.1. Do korzystania z Serwisu niezbędne jest posiadanie:
-- urządzenia z dostępem do internetu;
-- zainstalowanej przeglądarki internetowej obsługującej JavaScript i cookies;
-- aktywnego adresu e-mail;
-- w przypadku korzystania z paneli zarządzania — klienta SSH lub dostępu do przeglądarki internetowej.
-
-3.2. Usługodawca nie ponosi odpowiedzialności za brak możliwości korzystania z Serwisu wynikający z niespełnienia wymagań technicznych przez Klienta.
+- **Terms and Conditions** — this document;
+- **Service Provider** — the operator of the Service;
+- **Customer** — a natural person, legal person, or organizational unit without legal personality that has an account in the Service;
+- **Consumer** — a Customer who is a natural person concluding a contract not directly related to his or her business or professional activity;
+- **Entrepreneur** — a Customer who is not a Consumer;
+- **User** — a person using the Service;
+- **Service** — an electronic service provided by the Service Provider to the Customer, listed on the Service;
+- **Client Panel** — the WHMCS system available at **apexnodes.xyz**, used for managing services;
+- **Management Panel** — Pterodactyl systems (panel.apexnodes.xyz), SolusVM (solusvm.apexnodes.xyz, solusvm.msk.sh), ISPmanager (web.apexnodes.xyz:1500), phpMyAdmin (pma.apexnodes.xyz), and other systems made available to the Customer for managing Services;
+- **Pricing** — a list of offered Services along with prices, available at: **https://apexnodes.xyz/store/**;
+- **Automatic Renewal** — functionality for automatic extension of the Service for another period;
+- **Suspension** — temporary suspension of access to the Service while preserving data;
+- **Account** — the Customer's individual account in the WHMCS system;
+- **Consent to Performance** — the Customer's express consent to the immediate commencement of the provision of the Service, resulting in the loss of the right to withdraw from the contract.
 
 ---
 
-## 4. Rejestracja konta i warunki korzystania
+## 3. Technical requirements
 
-4.1. Rejestracja konta w Serwisie jest bezpłatna i dobrowolna.
+3.1. To use the Service, it is necessary to have:
+- a device with internet access;
+- an installed web browser supporting JavaScript and cookies;
+- an active e-mail address;
+- in the case of using management panels — an SSH client or access to a web browser.
 
-4.2. Podczas rejestracji Klient zobowiązany jest do podania prawdziwych i aktualnych danych osobowych lub firmowych. Klient ponosi pełną odpowiedzialność za podanie nieprawdziwych lub nieaktualnych danych.
-
-4.3. Usługodawca ma prawo weryfikacji danych podanych przez Klienta oraz żądania przedstawienia dokumentów potwierdzających tożsamość (np. dokumentu tożsamości, prawa jazdy, paszportu). Odmowa przedstawienia dokumentów może skutkować odmową świadczenia Usług lub zablokowaniem konta.
-
-4.4. Każdy Klient może posiadać tylko **jedno konto** w Serwisie, chyba że uzyska wyraźną zgodę Usługodawcy. Tworzenie wielu kont bez zgody skutkuje natychmiastowym zablokowaniem wszystkich kont bez prawa do zwrotu środków.
-
-4.5. Klient zobowiązany jest do zachowania poufności danych dostępowych do Konta i Paneli Zarządzania. Usługodawca nie ponosi odpowiedzialności za działania osób trzecich, które uzyskały dostęp do Konta lub Usług w wyniku zaniedbania Klienta.
-
-4.6. **Zakazane jest** przekazywanie, odsprzedaż, udostępnianie lub wypożyczanie Konta lub Usług osobom trzecim bez pisemnej zgody Usługodawcy. Naruszenie tego zakazu skutkuje natychmiastowym zablokowaniem konta bez prawa do zwrotu środków.
-
-4.7. Usługodawca nie ponosi odpowiedzialności za przypadkowe lub nieprawidłowe wpłaty środków na niewłaściwe konto. Środki wpłacone na błędne konto nie podlegają przeniesieniu ani zwrotowi.
+3.2. The Service Provider is not responsible for the inability to use the Service resulting from the Customer's failure to meet the technical requirements.
 
 ---
 
-## 5. Opis oferowanych Usług
+## 4. Account registration and conditions of use
 
-5.1. Usługodawca świadczy następujące kategorie Usług droga elektroniczną:
+4.1. Registration of an account in the Service is free and voluntary.
 
-| Kategoria Usługi | Opis | System zarządzania |
+4.2. During registration, the Customer is obliged to provide true and current personal or business data. The Customer bears full responsibility for providing false or outdated data.
+
+4.3. The Service Provider has the right to verify the data provided by the Customer and request presentation of documents confirming identity (e.g., identity card, driver's license, passport). Refusal to present documents may result in refusal to provide Services or blocking of the Account.
+
+4.4. Each Customer may have only **one account** in the Service, unless explicit consent is obtained from the Service Provider. Creating multiple accounts without consent will result in immediate blocking of all accounts without the right to a refund.
+
+4.5. The Customer is obliged to keep login data for the Account and Management Panels confidential. The Service Provider is not responsible for the actions of third parties who have gained access to the Account or Services as a result of the Customer's negligence.
+
+4.6. It is **prohibited** to transfer, resell, share, or lend the Account or Services to third parties without the written consent of the Service Provider. Violation of this prohibition will result in immediate blocking of the account without the right to a refund.
+
+4.7. The Service Provider is not responsible for accidental or incorrect payments to the wrong account. Funds deposited into the wrong account are not transferable or refundable.
+
+---
+
+## 5. Description of offered Services
+
+5.1. The Service Provider provides the following categories of electronic services:
+
+| Service category | Description | Management system |
 |---|---|---|
-| **Game Server** | Serwery gier (m.in. Minecraft, Terraria, ARK, GTA i inne) | Pterodactyl (panel.apexnodes.xyz) |
-| **Game Server (Premium)** | Serwery gier na wyższej jakości infrastrukturze | Pterodactyl (panel.apexnodes.xyz) |
-| **Script Hosting** | Hosting skryptów i aplikacji | Pterodactyl (panel.apexnodes.xyz) |
-| **Website Hosting** | Hosting stron internetowych | ISPmanager (web.apexnodes.xyz:1500) |
-| **Virtual Servers** | Serwery wirtualne (VPS) | SolusVM (solusvm.apexnodes.xyz, solusvm.msk.sh) |
-| **Virtual Servers (HI-CPU)** | Serwery wirtualne z wysokowydajnymi procesorami | SolusVM (solusvm.apexnodes.xyz, solusvm.msk.sh) |
-| **Dedicated Servers** | Serwery dedykowane | WHMCS (apexnodes.xyz) |
-| **Rejestracja domen** | Rejestracja i zarządzanie domenami internetowymi | WHMCS (apexnodes.xyz) |
+| **Game Server** | Game servers (including Minecraft, Terraria, ARK, GTA, and others) | Pterodactyl (panel.apexnodes.xyz) |
+| **Game Server (Premium)** | Game servers on higher-quality infrastructure | Pterodactyl (panel.apexnodes.xyz) |
+| **Script Hosting** | Script and application hosting | Pterodactyl (panel.apexnodes.xyz) |
+| **Website Hosting** | Website hosting | ISPmanager (web.apexnodes.xyz:1500) |
+| **Virtual Servers** | Virtual servers (VPS) | SolusVM (solusvm.apexnodes.xyz, solusvm.msk.sh) |
+| **Virtual Servers (HI-CPU)** | Virtual servers with high-performance processors | SolusVM (solusvm.apexnodes.xyz, solusvm.msk.sh) |
+| **Dedicated Servers** | Dedicated servers | WHMCS (apexnodes.xyz) |
+| **Domain registration** | Domain registration and management | WHMCS (apexnodes.xyz) |
 
-5.2. Szczegółowe parametry każdej Usługi (moc obliczeniowa, pamięć RAM, przestrzeń dyskowa, limit transferu, liczba baz danych, kopii zapasowych, portów) określone są w opisie konkretnego planu w Cenniku.
+5.2. Detailed parameters of each Service (computing power, RAM, disk space, transfer limit, number of databases, backups, ports) are specified in the description of the specific plan in the Pricing.
 
-5.3. Usługodawca zastrzega sobie prawo do zmiany parametrów oferowanych planów, dodawania nowych planów oraz wycofywania planów z oferty. Zmiany nie mają wpływu na Usługi już aktywowane, chyba że strony postanowią inaczej.
+5.3. The Service Provider reserves the right to change the parameters of offered plans, add new plans, and withdraw plans from the offer. Changes do not affect Services already activated, unless the parties decide otherwise.
 
-5.4. **Game Server (GAME-FREE)** to bezpłatna Usługa ograniczona czasowo i parametrami. Usługodawca:
-- **nie gwarantuje** dostępności, jakości ani ciągłości Usługi GAME-FREE;
-- świadczy Usługę GAME-FREE wyłącznie w miarę dostępności zasobów;
-- ma prawo do zaprzestania świadczenia Usługi GAME-FREE w dowolnym momencie bez podawania przyczyn;
-- zabrania odsprzedaży, wynajmu lub komercyjnego wykorzystania Usługi GAME-FREE pod groźbą natychmiastowego zablokowania.
-
----
-
-## 6. Zawarcie umowy i aktywacja Usługi
-
-6.1. Umowa o świadczenie Usługi zostaje zawarta w momencie:
-- złożenia zamówienia przez Klienta za pośrednictwem Serwisu;
-- dokonania płatności przez Klienta (w przypadku Usług płatnych);
-- akceptacji zamówienia przez system WHMCS lub pracownika Usługodawcy.
-
-6.2. Aktywacja Usługi następuje po potwierdzeniu płatności, z wyjątkiem Usług wymagających ręcznej konfiguracji (np. Dedicated Servers), których czas aktywacji jest podawany indywidualnie.
-
-6.3. W przypadku Usług GAME-FREE, aktywacja następuje po weryfikacji przez Usługodawcę i w miarę dostępności zasobów.
-
-6.4. Z chwilą aktywacji Usługi Klient otrzymuje dostęp do Panelu Zarządzania odpowiednim dla danej kategorii Usługi.
-
-6.5. Usługodawca zastrzega sobie prawo do odmowy zawarcia umowy bez podawania przyczyny, w szczególności w przypadku:
-- podania nieprawdziwych danych;
-- obecności Klienta na liście osób/firm niepożądanych;
-- wcześniejszych naruszeń Regulaminu przez Klienta;
-- podejrzenia działalności niezgodnej z prawem;
-- podejrzenia działalności oszukańczej.
-
-6.6. **Zgoda na Wykonanie.** Klient, składając zamówienie, wyraża wyraźną zgodę na natychmiastowe rozpoczęcie świadczenia Usługi przed upływem terminu do odstąpienia od umowy. Klient został poinformowany, że w wyniku wyrażenia tej zgody **utraci prawo do odstąpienia od umowy** zgodnie z art. 38 ust. 1 pkt 13 ustawy z dnia 30 maja 2014 r. o prawach konsumenta (Dz.U. z 2023 r. poz. 1591 ze zm.). Zgoda na wykonanie jest niezbędna do aktywacji Usługi.
+5.4. **Game Server (GAME-FREE)** is a free Service limited in time and parameters. The Service Provider:
+- **does not guarantee** availability, quality, or continuity of the GAME-FREE Service;
+- provides the GAME-FREE Service only as resources are available;
+- has the right to discontinue the GAME-FREE Service at any time without giving reasons;
+- prohibits resale, rental, or commercial use of the GAME-FREE Service under threat of immediate blocking.
 
 ---
 
-## 7. Ceny, płatności i fakturowanie
+## 6. Conclusion of contract and activation of the Service
 
-7.1. Ceny Usług wyrażone są w walutach: USD, EUR, RUB, UAH — zgodnie z wyborem Klienta w Serwisie.
+6.1. The contract for the provision of the Service is concluded when:
+- the Customer places an order via the Service;
+- the Customer makes payment (for paid Services);
+- the order is accepted by the WHMCS system or a Service Provider employee.
 
-7.2. Ceny podane w Cenniku są cenami **netto**. Usługodawca zastrzega sobie prawo do doliczenia podatku VAT lub innych podatków obowiązujących w jurysdykcji Klienta zgodnie z przepisami prawa. Ostateczna kwota do zapłaty jest widoczna w koszyku przed złożeniem zamówienia.
+6.2. Activation of the Service takes place after payment confirmation, except for Services requiring manual configuration (e.g., Dedicated Servers), whose activation time is provided individually.
 
-7.3. **Prowizje operatorów płatności.** Wszelkie prowizje, opłaty transakcyjne oraz koszty związane z dokonaniem płatności ponosi **Klient**. Kwoty te nie podlegają zwrotowi.
+6.3. In the case of GAME-FREE Services, activation takes place after verification by the Service Provider and as resources are available.
 
-7.4. Usługodawca udostępnia następujące metody płatności: LAVA, Monobank, Stripe, 2328.io, Heleket, CryptoBot, LZT Market. Lista metod może ulegać zmianie.
+6.4. Upon activation of the Service, the Customer receives access to the appropriate Management Panel for the given Service category.
 
-7.5. Usługa jest aktywowana po zaksięgowaniu pełnej należności na koncie Usługodawcy.
+6.5. The Service Provider reserves the right to refuse to conclude a contract without giving reasons, in particular in the case of:
+- providing false data;
+- the Customer being on a list of undesirable persons/companies;
+- previous violations of the Terms and Conditions by the Customer;
+- suspicion of illegal activity;
+- suspicion of fraudulent activity.
 
-7.6. Usługodawca wystawia faktury VAT dla Klientów z Unii Europejskiej oraz faktury dokumentujące transakcję dla pozostałych Klientów. Faktury dostępne są w Panelu Klienta WHMCS.
-
-7.7. W przypadku braku płatności w terminie:
-- **Dzień 0** — zakończenie okresu opłaconego;
-- **Dzień 0** (natychmiast) — **Zamrożenie Usługi** (brak dostępu, dane zachowane);
-- **Dzień 3–7** — usunięcie Usługi wraz ze wszystkimi danymi bez możliwości ich odzyskania.
-
-7.8. Dokładny termin usunięcia zależy od kategorii Usługi i decyzji Usługodawcy.
-
----
-
-## 8. Zamrożenie i rozwiązanie umowy
-
-8.1. **Nieopłacenie Usługi.** W przypadku nieuiszczenia opłaty za przedłużenie Usługi w terminie, Usługa zostaje automatycznie Zamrożona od dnia następującego po dniu wygaśnięcia okresu opłaconego. W okresie Zamrożenia Klient nie ma dostępu do Usługi, ale dane są przechowywane.
-
-8.2. Jeżeli w ciągu **3 do 7 dni** od daty Zamrożenia nie zostanie dokonana płatność, Usługa zostaje nieodwracalnie usunięta wraz ze wszystkimi danymi. Po usunięciu Usługi odzyskanie danych jest niemożliwe.
-
-8.3. **Request Cancellation (wniosek o rezygnację).** Klient może złożyć wniosek o rezygnację z Usługi za pośrednictwem Panelu Klienta WHMCS, wybierając jedną z opcji:
-- **Natychmiastowa rezygnacja** — Usługa zostanie zakończona przy najbliższym uruchomieniu automatyzacji WHMCS (zazwyczaj w ciągu 24 godzin);
-- **Rezygnacja po zakończeniu okresu opłaconego** — Usługa pozostanie aktywna do końca opłaconego okresu, po czym zostanie Zamrożona i usunięta zgodnie z pkt 8.2.
-
-8.4. Po zakończeniu Usługi jej dane (pliki, bazy danych, konfiguracje) są przechowywane w kopii zapasowej przez okres do **30 dni**, po czym nieodwracalnie usuwane. Usługodawca nie gwarantuje możliwości przywrócenia danych po tym okresie.
-
-8.5. **Rozwiązanie umowy przez Usługodawcę.** Usługodawca może rozwiązać umowę ze skutkiem natychmiastowym i zablokować Konto w przypadku:
-- naruszenia Regulaminu;
-- działalności niezgodnej z prawem;
-- niespłacenia zobowiązań;
-- podejrzenia oszustwa lub prób włamania;
-- naruszenia praw osób trzecich;
-- nieudostępnienia dokumentów weryfikacyjnych na żądanie;
-- jakiegokolwiek działania zagrażającego bezpieczeństwu infrastruktury lub innych Klientów.
-
-W przypadku rozwiązania umowy z przyczyn leżących po stronie Klienta, środki zgromadzone na koncie nie podlegają zwrotowi.
+6.6. **Consent to Performance.** By placing an order, the Customer expressly consents to the immediate commencement of the provision of the Service before the expiry of the deadline for withdrawal from the contract. The Customer has been informed that as a result of giving this consent, **he or she will lose the right to withdraw from the contract** in accordance with applicable consumer protection regulations. Consent to performance is necessary for the activation of the Service.
 
 ---
 
-## 9. Prawo odstąpienia od umowy (Konsumenci)
+## 7. Prices, payments, and invoicing
 
-9.1. Zgodnie z art. 38 ust. 1 pkt 13 ustawy o prawach konsumenta, **prawo odstąpienia od umowy nie przysługuje Konsumentowi** w odniesieniu do umów o świadczenie usług cyfrowych, jeżeli Usługodawca rozpoczął świadczenie za wyraźną zgodą Konsumenta, który został poinformowany przed rozpoczęciem świadczenia, że w wyniku udzielenia zgody utraci prawo odstąpienia od umowy.
+7.1. Service prices are expressed in currencies: USD, EUR, RUB, UAH — according to the Customer's selection in the Service.
 
-9.2. Poprzez złożenie zamówienia i wyrażenie Zgody na Wykonanie (pkt 6.6) Konsument potwierdza, że:
-- został poinformowany o utracie prawa odstąpienia;
-- wyraża zgodę na natychmiastowe rozpoczęcie świadczenia Usługi;
-- rozumie, że po aktywacji Usługi nie będzie mógł odstąpić od umowy.
+7.2. Prices listed in the Pricing are **net prices**. The Service Provider reserves the right to add VAT or other taxes applicable in the Customer's jurisdiction in accordance with the law. The final amount payable is visible in the cart before placing the order.
 
-9.3. W przypadkach gdy prawo odstąpienia przysługuje mimo powyższego (np. przed aktywacją Usługi), Konsument może odstąpić od umowy w terminie **14 dni** od zawarcia umowy, składając oświadczenie na adres e-mail: **admin@apexnodes.xyz** lub w Panelu Klienta. Zwrot środków następuje w formie środków na koncie WHMCS w terminie **14 dni** od otrzymania oświadczenia o odstąpieniu.
+7.3. **Payment operator fees.** All commissions, transaction fees, and costs associated with making the payment are borne by the **Customer**. These amounts are non-refundable.
 
----
+7.4. The Service Provider offers the following payment methods: LAVA, Monobank, Stripe, 2328.io, Heleket, CryptoBot, LZT Market. The list of methods may change.
 
-## 10. Polityka zwrotów środków
+7.5. The Service is activated after the full amount due is credited to the Service Provider's account.
 
-10.1. Usługodawca **nie zwraca środków** na zewnętrzne konta bankowe, karty płatnicze ani portfele kryptowalutowe. Wszelkie zwracane środki są przekazywane wyłącznie na konto w systemie WHMCS (tzw. "kredyt konta" / "Account Credit").
+7.6. The Service Provider issues VAT invoices for Customers from the European Union and transaction-documenting invoices for other Customers. Invoices are available in the WHMCS Client Panel.
 
-10.2. Konto w systemie WHMCS może być wykorzystane wyłącznie do opłat za Usługi Usługodawcy. Środki z konta WHMCS **nie podlegają wypłacie na zewnętrzne konta**.
+7.7. In the event of non-payment on time:
+- **Day 0** — end of the paid period;
+- **Day 0** (immediately) — **Service Suspension** (no access, data preserved);
+- **Day 3–7** — deletion of the Service along with all data without the possibility of recovery.
 
-10.3. Zwrot środków na konto WHMCS może nastąpić wyłącznie za **nieprzekazane** Usługi (Usługi opłacone, ale nigdy nieaktywowane) lub w przypadku **pomyłki technicznej** po stronie Usługodawcy, uniemożliwiającej świadczenie Usługi.
-
-10.4. W przypadkach prawnie wymaganych zwrotów (np. przed aktywacją Usługi), zwrot następuje w terminie **14 dni** kalendarzowych na konto WHMCS lub, w przypadkach wymaganych przez bezwzględnie obowiązujące przepisy, na oryginalne konto płatnicze.
-
-10.5. Zwrot nie obejmuje prowizji operatorów płatności, podatków ani opłat transakcyjnych.
-
-10.6. Usługodawca zastrzega sobie prawo do odmowy zwrotu w przypadku:
-- ustalenia faktu oszustwa lub naruszenia Regulaminu;
-- skorzystania z Usługi w jakimkolwiek zakresie;
-- przekroczenia terminu do zgłoszenia reklamacji;
-- działalności niezgodnej z prawem;
-- braku uzasadnionych podstaw do zwrotu.
-
-10.7. Decyzja o zwrocie środków należy wyłącznie do Usługodawcy i jest podejmowana w każdym przypadku indywidualnie.
+7.8. The exact deletion date depends on the Service category and the Service Provider's decision.
 
 ---
 
-## 11. Odpowiedzialność stron
+## 8. Suspension and termination of contract
 
-11.1. Usługodawca świadczy Usługi "w stanie, w jakim się znajdują" ("as is"), bez udzielania jakichkolwiek gwarancji jakości, wydajności, dostępności, nieprzerwanego działania ani zgodności z określonym celem.
+8.1. **Non-payment of the Service.** In the event of non-payment for the renewal of the Service on time, the Service is automatically Suspended from the day following the expiry of the paid period. During the Suspension period, the Customer does not have access to the Service, but the data is stored.
 
-11.2. Usługodawca **nie udziela żadnej gwarancji dostępności** (SLA) w odniesieniu do jakiejkolwiek Usługi, z wyjątkiem sytuacji, gdy taka gwarancja została wyraźnie określona w odrębnej umowie.
+8.2. If payment is not made within **3 to 7 days** from the date of Suspension, the Service is irreversibly deleted along with all data. After deletion of the Service, data recovery is impossible.
 
-11.3. Odpowiedzialność Usługodawcy wobec Klienta jest ograniczona do **kwoty zapłaconej przez Klienta za Usługę w okresie ostatnich 30 dni**, w którym nastąpiło zdarzenie powodujące odpowiedzialność. W żadnym wypadku Usługodawca nie ponosi odpowiedzialności za:
-- utracone zyski;
-- utratę danych;
-- szkody pośrednie, przypadkowe, wynikowe;
-- przerwy w działalności Klienta;
-- szkody wynikające z działania siły wyższej;
-- szkody wynikające z działania lub zaniechania podmiotów trzecich (w tym operatorów płatności, dostawców infrastruktury, rejestratorów domen).
+8.3. **Request Cancellation.** The Customer may submit a request to cancel the Service via the WHMCS Client Panel, choosing one of the options:
+- **Immediate cancellation** — the Service will be terminated at the next WHMCS automation run (usually within 24 hours);
+- **Cancellation at the end of the paid period** — the Service will remain active until the end of the paid period, after which it will be Suspended and deleted in accordance with point 8.2.
 
-11.4. Usługodawca nie ponosi odpowiedzialności za:
-- brak dostępności Serwisu lub Usług wynikający z prac konserwacyjnych, modernizacji lub awarii;
-- utratę danych spowodowaną działaniem lub zaniechaniem Klienta;
-- naruszenie praw osób trzecich przez treści zamieszczane przez Klienta;
-- działanie wirusa, malware lub innego złośliwego oprogramowania po stronie Klienta;
-- problemy wynikające z konfiguracji lub oprogramowania zainstalowanego przez Klienta.
+8.4. After termination of the Service, its data (files, databases, configurations) is stored in a backup for a period of up to **30 days**, after which it is irreversibly deleted. The Service Provider does not guarantee the possibility of restoring data after this period.
 
-11.5. Usługodawca nie ponosi odpowiedzialności za przerwy w świadczeniu Usług spowodowane:
-- siłą wyższą (zob. pkt 17);
-- działaniami lub zaniechaniami operatorów telekomunikacyjnych, dostawców energii lub innych podmiotów;
-- działaniami organów władzy publicznej;
-- atakami DDoS, włamaniami lub innymi zdarzeniami bezpieczeństwa, jeżeli Usługodawca dochował należytej staranności w ich zapobieganiu.
+8.5. **Termination of contract by the Service Provider.** The Service Provider may terminate the contract with immediate effect and block the Account in the case of:
+- violation of the Terms and Conditions;
+- illegal activity;
+- non-payment of liabilities;
+- suspicion of fraud or attempted hacking;
+- infringement of third-party rights;
+- failure to provide verification documents upon request;
+- any action threatening the security of infrastructure or other Customers.
 
-11.6. Klient ponosi pełną odpowiedzialność za:
-- treści zamieszczane na serwerach i w ramach Usług;
-- bezpieczeństwo swoich systemów, haseł i danych dostępowych;
-- posiadanie aktualnych kopii zapasowych swoich danych;
-- przestrzeganie prawa, w tym prawa autorskiego, praw własności intelektualnej, przepisów o ochronie danych osobowych;
-- działalność osób trzecich mających dostęp do Usług na podstawie upoważnienia Klienta.
+In the event of termination of the contract for reasons attributable to the Customer, funds accumulated in the account are non-refundable.
 
 ---
 
-## 12. Zabronione działania i treści
+## 9. Right of withdrawal (Consumers)
 
-12.1. **ABSOLUTNIE ZABRONIONE** jest wykorzystywanie Usług do:
-- przechowywania, rozpowszechniania lub promowania treści związanych z wykorzystywaniem seksualnym nieletnich (CSAM/CP);
-- prowadzenia, obsługi lub dystrybucji botnetów, złośliwego oprogramowania, wirusów, trojanów, keyloggerów;
-- prowadzenia działalności phishingowej, spoofingowej lub impersonacji;
-- prowadzenia scamów, oszustw finansowych, piramid finansowych;
-- nieautoryzowanego skanowania sieci, łamania zabezpieczeń, testów penetracyjnych bez zgody właściciela celu;
-- rozpowszechniania treści nawołujących do przemocy, terroryzmu, nienawiści lub dyskryminacji;
-- handlu nielegalnymi substancjami, bronią lub materiałami wybuchowymi;
-- hostingu lub strumieniowania pirackich treści chronionych prawem autorskim (filmy, muzyka, oprogramowanie, gry) bez wymaganych licencji;
-- prowadzenia serwerów proxy, VPN, tuneli SSH lub innych mechanizmów przekierowujących ruch na zewnętrzne serwery lub urządzenia **nieświadczone przez Usługodawcę**, bez wyraźnej pisemnej zgody Administracji;
-- wykorzystywania ochrony DDoS Usługodawcy (StormWall, Cloudflare) do zabezpieczania zewnętrznych serwerów, usług lub infrastruktury niebędącej własnością Usługodawcy ani nieświadczonej na jej rzecz.
+9.1. In accordance with applicable consumer protection regulations, **the right of withdrawal does not apply to the Consumer** in relation to contracts for the provision of digital services if the Service Provider has begun performance with the Consumer's express consent, who was informed before the commencement of performance that as a result of giving consent he or she would lose the right to withdraw from the contract.
 
-12.2. **Zabronione jest** również:
-- wykorzystywanie Usług do wydobywania kryptowalut (mining) bez pisemnej zgody Usługodawcy;
-- wykorzystywanie Usług do prowadzenia ataków DDoS, floodowania, spamowania;
-- wysyłanie niechcianej korespondencji masowej (spam);
-- podszywanie się pod Usługodawcę lub inne podmioty;
-- nadmierne obciążanie zasobów współdzielonych wpływające na pracę innych Klientów ("noisy neighbor");
-- wykorzystywanie Usług do przechowywania kopii zapasowych, które nie są bezpośrednio związane z działaniem serwera lub aplikacji.
+9.2. By placing an order and giving Consent to Performance (point 6.6), the Consumer confirms that:
+- he or she has been informed of the loss of the right of withdrawal;
+- he or she consents to the immediate commencement of the provision of the Service;
+- he or she understands that after activation of the Service he or she will not be able to withdraw from the contract.
 
-12.3. Naruszenie postanowień niniejszego punktu skutkuje:
-- natychmiastowym zablokowaniem Usługi lub Konta bez uprzedniego ostrzeżenia;
-- nieodwracalnym usunięciem danych;
-- brakiem prawa do jakiegokolwiek zwrotu środków;
-- przekazaniem informacji o naruszeniu odpowiednim organom ścigania;
-- dochodzeniem roszczeń odszkodowawczych na drodze sądowej.
-
-12.4. Usługodawca nie jest zobowiązany do powiadomienia Klienta przed podjęciem działań wynikających z naruszenia niniejszego punktu.
-
-12.5. Usługodawca ma prawo do udostępnienia organom ścigania, sądom lub innym uprawnionym podmiotom wszelkich informacji dotyczących Konta i Usług Klienta, jeżeli uzasadnione jest podejrzenie naruszenia prawa.
+9.3. In cases where the right of withdrawal applies despite the above (e.g., before activation of the Service), the Consumer may withdraw from the contract within **14 days** of concluding the contract by submitting a statement to the e-mail address: **admin@apexnodes.xyz** or in the Client Panel. The refund is made in the form of funds to the WHMCS account within **14 days** of receiving the statement of withdrawal.
 
 ---
 
-## 13. Wsparcie techniczne
+## 10. Refund policy
 
-13.1. Usługodawca zapewnia wsparcie techniczne dla Klientów za pośrednictwem systemu zgłoszeń (tickets) w Panelu Klienta WHMCS. Wsparcie jest **bezpłatne i bez limitu** co do liczby zgłoszeń.
+10.1. The Service Provider **does not refund** funds to external bank accounts, payment cards, or cryptocurrency wallets. All refunded funds are transferred exclusively to the account in the WHMCS system (so-called "account credit").
 
-13.2. Zakres wsparcia technicznego obejmuje:
-- problemy z dostępnością Usługi;
-- awarie infrastruktury Usługodawcy;
-- problemy z Panelem Zarządzania;
-- pytania dotyczące funkcjonowania Usługi.
+10.2. The account in the WHMCS system may be used exclusively for payment for the Service Provider's Services. Funds from the WHMCS account **are not eligible for withdrawal to external accounts**.
 
-13.3. Wsparcie techniczne **nie obejmuje**:
-- konfiguracji oprogramowania po stronie Klienta;
-- instalacji pluginów, modów, modyfikacji;
-- wewnętrznej konfiguracji serwera gry, aplikacji lub systemu operacyjnego;
-- programowania, tworzenia skryptów;
-- migracji danych od innych dostawców.
+10.3. Refund of funds to the WHMCS account may occur only for **undelivered** Services (Services paid for but never activated) or in the case of a **technical error** on the Service Provider's side preventing the provision of the Service.
 
-13.4. Usługodawca zastrzega sobie prawo do:
-- ograniczenia lub zawieszenia możliwości tworzenia zgłoszeń w przypadku nieadekwatnego zachowania Klienta, wulgaryzmów, gróźb lub nękania pracowników;
-- wydłużenia czasu odpowiedzi lub odmowy udzielenia wsparcia, jeżeli zgłoszenie dotyczy materii spoza zakresu wsparcia (pkt 13.3);
-- nie udzielenia odpowiedzi na zgłoszenia powtarzalne lub bezpodstawne;
-- zmiany kanałów komunikacji (np. ograniczenie dostępu do tickets przy zachowaniu innych metod kontaktu), jeżeli uzasadnia to sytuacja.
+10.4. In legally required cases (e.g., before activation of the Service), the refund is made within **14 calendar days** to the WHMCS account or, in cases required by mandatory provisions, to the original payment account.
 
-13.5. Czas odpowiedzi na zgłoszenia zależy od kategorii i złożoności problemu oraz jest podawany w systemie zgłoszeń. Usługodawca nie gwarantuje natychmiastowej odpowiedzi.
+10.5. The refund does not cover payment operator commissions, taxes, or transaction fees.
 
-13.6. Wszelkie działania wykonywane przez zespół wsparcia w ramach zakresu wykraczającego poza pkt 13.2 są udzielane dobrowolnie i nie stanowią zobowiązania Usługodawcy do ich powtarzania ani przekształcenia w stały zakres usług.
+10.6. The Service Provider reserves the right to refuse a refund in the case of:
+- establishing the fact of fraud or violation of the Terms and Conditions;
+- having used the Service in any scope;
+- exceeding the complaint deadline;
+- illegal activity;
+- lack of justified grounds for a refund.
+
+10.7. The decision on refund belongs exclusively to the Service Provider and is made on a case-by-case basis.
 
 ---
 
-## 14. Kopie zapasowe i bezpieczeństwo danych
+## 11. Liability of the parties
 
-14.1. Klient jest wyłącznie odpowiedzialny za tworzenie i przechowywanie kopii zapasowych swoich danych, plików, baz danych i konfiguracji. Usługodawca **nie gwarantuje** tworzenia ani przechowywania kopii zapasowych danych Klienta.
+11.1. The Service Provider provides Services "as is", without providing any warranties of quality, performance, availability, uninterrupted operation, or fitness for a particular purpose.
 
-14.2. W niektórych planach Usługodawca może udostępniać funkcjonalność tworzenia kopii zapasowych (backups) jako dodatkową opcję. Dostępność i parametry tej funkcji określone są w opisie planu.
+11.2. The Service Provider **does not provide any availability guarantee (SLA)** for any Service, except in situations where such a guarantee has been expressly specified in a separate agreement.
 
-14.3. Usługodawca nie ponosi odpowiedzialności za utratę danych Klienta, niezależnie od przyczyny tej utraty (awaria, usunięcie przez Klienta, atak, błąd systemu, itp.).
+11.3. The Service Provider's liability to the Customer is limited to **the amount paid by the Customer for the Service in the last 30 days** in which the event giving rise to liability occurred. In no event shall the Service Provider be liable for:
+- lost profits;
+- data loss;
+- indirect, incidental, consequential damages;
+- interruptions in the Customer's business;
+- damages resulting from force majeure;
+- damages resulting from the actions or omissions of third parties (including payment operators, infrastructure providers, domain registrars).
 
-14.4. W przypadku przekroczenia limitu miejsca na kopie zapasowe przez Klienta, Usługodawca ma prawo do usunięcia najstarszych kopii zapasowych bez uprzedniego ostrzeżenia.
+11.4. The Service Provider is not liable for:
+- unavailability of the Service or Services resulting from maintenance, upgrades, or failures;
+- data loss caused by the Customer's actions or omissions;
+- infringement of third-party rights by content posted by the Customer;
+- virus, malware, or other malicious software operation on the Customer's side;
+- problems resulting from configuration or software installed by the Customer.
 
----
+11.5. The Service Provider is not liable for interruptions in the provision of Services caused by:
+- force majeure (see point 17);
+- actions or omissions of telecommunications operators, energy suppliers, or other entities;
+- actions of public authorities;
+- DDoS attacks, break-ins, or other security events if the Service Provider has exercised due diligence in preventing them.
 
-## 15. Rejestracja i zarządzanie domenami
-
-15.1. Rejestracja domen odbywa się za pośrednictwem Usługodawcy jako pośrednika, przy wykorzystaniu rejestratora **eNom (Tucows Inc.)**.
-
-15.2. Klient rejestrując domenę oświadcza, że podane dane kontaktowe (WHOIS) są prawdziwe i aktualne.
-
-15.3. Usługodawca przekazuje dane Klienta niezbędne do rejestracji domeny rejestratorowi zgodnie z wymaganiami ICANN. Przekazanie tych danych jest niezbędne do zawarcia umowy o rejestrację domeny.
-
-15.4. Przy rejestracji domeny lub transferze domeny do Usługodawcy mogą obowiązywać dodatkowe opłaty, okresy karentany oraz ograniczenia wynikające z polityki rejestratora i strefy domeny.
-
-15.5. Usługodawca nie ponosi odpowiedzialności za:
-- odmowę rejestracji domeny przez rejestratora;
-- utratę domeny w wyniku nieuiszczenia opłaty odnowienia przez Klienta;
-- zajęcie domeny przez osoby trzecie przed złożeniem zamówienia przez Klienta;
-- decyzje organów arbitrażowych lub sądowych dotyczących domen.
-
----
-
-## 16. Prawa własności intelektualnej
-
-16.1. Wszelkie prawa własności intelektualnej do Serwisu, jego elementów graficznych, oprogramowania, baz danych, logo, znaków towarowych należą do Usługodawcy lub jego licencjodawców.
-
-16.2. Klient udziela Usługodawcy nieograniczonej w czasie, nieodpłatnej, sublicencjonowalnej licencji na wykorzystywanie treści, plików, danych przechowywanych na serwerach Usługodawcy, w zakresie niezbędnym do świadczenia Usług.
-
-16.3. Klient ponosi wyłączną odpowiedzialność za naruszenie praw własności intelektualnej osób trzecich w ramach korzystania z Usług. W przypadku otrzymania zgłoszenia o naruszeniu praw autorskich (DMCA lub inne), Usługodawca ma prawo do natychmiastowego zablokowania dostępu do treści objętej zgłoszeniem.
+11.6. The Customer bears full responsibility for:
+- content posted on servers and within the Services;
+- security of his or her systems, passwords, and access data;
+- having current backups of his or her data;
+- compliance with the law, including copyright, intellectual property rights, personal data protection regulations;
+- activities of third parties having access to the Services based on the Customer's authorization.
 
 ---
 
-## 17. Siła wyższa
+## 12. Prohibited activities and content
 
-17.1. Żadna ze stron nie ponosi odpowiedzialności za niewykonanie lub nienależyte wykonanie zobowiązań wynikających z Regulaminu, jeżeli niewykonanie lub nienależyte wykonanie było spowodowane siłą wyższą.
+12.1. It is **ABSOLUTELY PROHIBITED** to use the Services for:
+- storing, distributing, or promoting content related to the sexual exploitation of minors (CSAM/CP);
+- operating, maintaining, or distributing botnets, malicious software, viruses, trojans, keyloggers;
+- conducting phishing, spoofing, or impersonation activities;
+- conducting scams, financial fraud, pyramid schemes;
+- unauthorized network scanning, breaking security, penetration testing without the target owner's consent;
+- distributing content inciting violence, terrorism, hatred, or discrimination;
+- trading illegal substances, weapons, or explosives;
+- hosting or streaming pirated content protected by copyright (movies, music, software, games) without required licenses;
+- operating proxy servers, VPNs, SSH tunnels, or other mechanisms redirecting traffic to external servers or devices **not provided by the Service Provider**, without express written consent of the Administration;
+- using the Service Provider's DDoS protection (StormWall, Cloudflare) to secure external servers, services, or infrastructure not owned by the Service Provider or not provided on its behalf.
 
-17.2. Za siłę wyższą uważa się zdarzenia nadzwyczajne i niezależne od woli stron, w szczególności: klęski żywiołowe, powodzie, pożary, trzęsienia ziemi, epidemie, pandemia, zamieszki, wojny, działania terrorystyczne, strajki, blokady, decyzje organów władzy publicznej, awarie infrastruktury krytycznej (energia elektryczna, łącza internetowe), ataki DDoS o skali wykraczającej poza możliwości ochrony, włamania do systemów informatycznych spowodowane nieznanymi wcześniej podatnościami (zero-day).
+12.2. It is also **prohibited** to:
+- use the Services for cryptocurrency mining without the written consent of the Service Provider;
+- use the Services to conduct DDoS attacks, flooding, spamming;
+- send unsolicited mass correspondence (spam);
+- impersonate the Service Provider or other entities;
+- excessively load shared resources affecting the work of other Customers ("noisy neighbor");
+- use the Services to store backups that are not directly related to the operation of the server or application.
 
-17.3. Strona, której wykonanie zobowiązań jest uniemożliwione przez siłę wyższą, zobowiązana jest niezwłocznie poinformować drugą stronę o zaistnieniu takich okoliczności.
+12.3. Violation of the provisions of this point results in:
+- immediate blocking of the Service or Account without prior warning;
+- irreversible deletion of data;
+- no right to any refund;
+- transfer of information about the violation to the appropriate law enforcement authorities;
+- pursuing compensation claims in court.
 
----
+12.4. The Service Provider is not obliged to notify the Customer before taking actions resulting from the violation of this point.
 
-## 18. Ochrona DDoS i infrastruktura sieciowa
-
-18.1. Usługodawca wykorzystuje usługi **StormWall** oraz **Cloudflare** do ochrony przed atakami DDoS.
-
-18.2. Ochrona DDoS jest świadczona wyłącznie na rzecz Usług i infrastruktury Usługodawcy. **Zabronione jest** wykorzystywanie ochrony DDoS Usługodawcy do zabezpieczania serwerów, usług, domen lub infrastruktury niebędących własnością Usługodawcy ani nieświadczonych na jego rzecz, w tym:
-- tunelowanie ruchu do zewnętrznych serwerów;
-- proxyfikowanie ruchu przez adresy IP Usługodawcy;
-- wykorzystanie DNS Usługodawcy do ochrony zewnętrznych zasobów.
-
-18.3. Naruszenie zakazu z pkt 18.2 skutkuje natychmiastowym zablokowaniem Konta i Usług bez prawa do zwrotu środków.
-
-18.4. Usługodawca nie gwarantuje ochrony przed wszystkimi typami ataków DDoS ani ochrony w każdej skali ataku. Ochrona jest świadczona w ramach możliwości technicznych w danym momencie.
-
----
-
-## 19. Zmiana Regulaminu
-
-19.1. Usługodawca zastrzega sobie prawo do zmiany Regulaminu w dowolnym czasie.
-
-19.2. Zmiany wchodzą w życie po upływie **14 dni** od daty opublikowania w Serwisie, z wyjątkiem zmian:
-- korzystnych dla Klientów — wchodzą w życie natychmiast;
-- wymuszonych przepisami prawa — wchodzą w życie z datą wskazaną w przepisach;
-- dotyczących bezpieczeństwa — wchodzą w życie natychmiast.
-
-19.3. O zmianie Regulaminu Usługodawca powiadomi Klientów drogą elektroniczną (e-mail) oraz poprzez opublikowanie komunikatu w Panelu Klienta.
-
-19.4. W przypadku niezaakceptowania zmian Regulaminu, Klient jest zobowiązany do zaprzestania korzystania z Serwisu i złożenia wniosku o rezygnację z Usług. Kontynuowanie korzystania z Serwisu po wejściu w życie zmian stanowi akceptację nowego Regulaminu.
+12.5. The Service Provider has the right to disclose to law enforcement authorities, courts, or other authorized entities all information regarding the Customer's Account and Services if there is justified suspicion of a violation of the law.
 
 ---
 
-## 20. Postanowienia końcowe
+## 13. Technical support
 
-20.1. W sprawach nieuregulowanych niniejszym Regulaminem zastosowanie mają przepisy:
-- prawa polskiego, w szczególności Kodeksu cywilnego, ustawy o świadczeniu usług drogą elektroniczną, ustawy o prawach konsumenta, Rozporządzenia RODO;
-- prawa Unii Europejskiej.
+13.1. The Service Provider provides technical support to Customers via the ticket system in the WHMCS Client Panel. Support is **free and unlimited** in terms of the number of tickets.
 
-20.2. W przypadku sporów pomiędzy Usługodawcą a Konsumentem, właściwy jest sąd powszechny właściwy dla miejsca zamieszkania Konsumenta, zgodnie z przepisami Kodeksu postępowania cywilnego.
+13.2. Technical support includes:
+- Service availability issues;
+- Service Provider infrastructure failures;
+- Management Panel issues;
+- questions regarding the functioning of the Service.
 
-20.3. W przypadku sporów pomiędzy Usługodawcą a Przedsiębiorcą, właściwy jest **Sąd Rejonowy w Częstochowie**.
+13.3. Technical support **does not include**:
+- configuration of software on the Customer's side;
+- installation of plugins, mods, modifications;
+- internal configuration of the game server, application, or operating system;
+- programming, script creation;
+- data migration from other providers.
 
-20.4. Usługodawca informuje, że Konsument ma możliwość skorzystania z pozasądowych sposobów rozpatrywania reklamacji i dochodzenia roszczeń, w tym platformy internetowego systemu rozstrzygania sporów (ODR) dostępnej pod adresem: [https://ec.europa.eu/consumers/odr](https://ec.europa.eu/consumers/odr).
+13.4. The Service Provider reserves the right to:
+- limit or suspend the ability to create tickets in the case of inappropriate Customer behavior, vulgarities, threats, or harassment of employees;
+- extend response time or refuse support if the ticket concerns matters outside the scope of support (point 13.3);
+- not respond to repetitive or unfounded tickets;
+- change communication channels (e.g., restrict access to tickets while maintaining other contact methods) if the situation justifies it.
 
-20.5. Regulamin wchodzi w życie z dniem **04 czerwca 2026 r.**
+13.5. Response time to tickets depends on the category and complexity of the problem and is provided in the ticket system. The Service Provider does not guarantee an immediate response.
 
-20.6. Ostatnia aktualizacja: **04 czerwca 2026 r.**
+13.6. Any actions performed by the support team beyond the scope specified in point 13.2 are provided voluntarily and do not constitute an obligation of the Service Provider to repeat them or convert them into a permanent scope of services.
 
 ---
 
-*Trusted Technologies Sp. z o.o.*
-*ul. Łódzka 8/12, lok. 8.18, 42-202 Częstochowa*
-*KRS: 0001242922 | NIP: 5732973199 | REGON: 544825601*
+## 14. Backups and data security
+
+14.1. The Customer is solely responsible for creating and storing backups of his or her data, files, databases, and configurations. The Service Provider **does not guarantee** creating or storing backups of Customer data.
+
+14.2. In some plans, the Service Provider may offer backup functionality as an additional option. The availability and parameters of this feature are specified in the plan description.
+
+14.3. The Service Provider is not liable for the loss of Customer data, regardless of the cause of the loss (failure, deletion by the Customer, attack, system error, etc.).
+
+14.4. If the Customer exceeds the backup storage limit, the Service Provider has the right to delete the oldest backups without prior warning.
+
+---
+
+## 15. Domain registration and management
+
+15.1. Domain registration is carried out through the Service Provider as an intermediary, using the registrar **eNom (Tucows Inc.)**.
+
+15.2. By registering a domain, the Customer declares that the provided contact data (WHOIS) is true and current.
+
+15.3. The Service Provider transfers Customer data necessary for domain registration to the registrar in accordance with ICANN requirements. Transferring this data is necessary to conclude a domain registration contract.
+
+15.4. When registering or transferring a domain to the Service Provider, additional fees, quarantine periods, and restrictions resulting from the registrar's policy and the domain zone may apply.
+
+15.5. The Service Provider is not liable for:
+- refusal of domain registration by the registrar;
+- loss of a domain due to non-payment of renewal by the Customer;
+- seizure of a domain by third parties before the Customer placed the order;
+- decisions of arbitration bodies or courts regarding domains.
+
+---
+
+## 16. Intellectual property rights
+
+16.1. All intellectual property rights to the Service, its graphic elements, software, databases, logos, and trademarks belong to the Service Provider or its licensors.
+
+16.2. The Customer grants the Service Provider an unlimited in time, royalty-free, sublicensable license to use the content, files, and data stored on the Service Provider's servers to the extent necessary to provide the Services.
+
+16.3. The Customer bears sole responsibility for infringing the intellectual property rights of third parties within the use of the Services. In the event of receiving a notice of copyright infringement (DMCA or other), the Service Provider has the right to immediately block access to the content covered by the notice.
+
+---
+
+## 17. Force majeure
+
+17.1. Neither party shall be liable for failure or improper performance of obligations arising from the Terms and Conditions if such failure or improper performance was caused by force majeure.
+
+17.2. Force majeure means extraordinary events independent of the will of the parties, in particular: natural disasters, floods, fires, earthquakes, epidemics, pandemics, riots, wars, terrorist activities, strikes, blockades, decisions of public authorities, failures of critical infrastructure (electricity, internet connections), DDoS attacks exceeding the capabilities of protection, break-ins to IT systems caused by previously unknown vulnerabilities (zero-day).
+
+17.3. The party whose performance of obligations is prevented by force majeure is obliged to immediately inform the other party of the occurrence of such circumstances.
+
+---
+
+## 18. DDoS protection and network infrastructure
+
+18.1. The Service Provider uses **StormWall** and **Cloudflare** services to protect against DDoS attacks.
+
+18.2. DDoS protection is provided exclusively for the Services and infrastructure of the Service Provider. It is **prohibited** to use the Service Provider's DDoS protection to secure servers, services, domains, or infrastructure not owned by the Service Provider or not provided on its behalf, including:
+- tunneling traffic to external servers;
+- proxying traffic through the Service Provider's IP addresses;
+- using the Service Provider's DNS to protect external resources.
+
+18.3. Violation of the prohibition in point 18.2 results in immediate blocking of the Account and Services without the right to a refund.
+
+18.4. The Service Provider does not guarantee protection against all types of DDoS attacks or protection at every attack scale. Protection is provided within the technical capabilities available at the given time.
+
+---
+
+## 19. Changes to the Terms and Conditions
+
+19.1. The Service Provider reserves the right to change these Terms and Conditions at any time.
+
+19.2. Changes enter into force after **14 days** from the date of publication on the Service, except for changes:
+- favorable to Customers — enter into force immediately;
+- required by law — enter into force on the date specified in the regulations;
+- related to security — enter into force immediately.
+
+19.3. Customers will be informed of changes to the Terms and Conditions by electronic means (e-mail) and by publishing a message in the Client Panel.
+
+19.4. In the event of non-acceptance of changes to the Terms and Conditions, the Customer is obliged to stop using the Service and submit a request to cancel the Services. Continued use of the Service after the changes enter into force constitutes acceptance of the new Terms and Conditions.
+
+---
+
+## 20. Final provisions
+
+20.1. In matters not regulated by these Terms and Conditions, the provisions of applicable law, including consumer protection regulations and the GDPR, shall apply.
+
+20.2. In the event of disputes between the Service Provider and a Consumer, the competent court is the court competent for the Consumer's place of residence, in accordance with applicable civil procedure regulations.
+
+20.3. In the event of disputes between the Service Provider and an Entrepreneur, the competent court is determined in accordance with applicable law.
+
+20.4. The Service Provider informs Consumers that they have the possibility to use out-of-court methods of resolving complaints and claims, including the Online Dispute Resolution (ODR) platform available at: [https://ec.europa.eu/consumers/odr](https://ec.europa.eu/consumers/odr).
+
+20.5. These Terms and Conditions enter into force on **June 4, 2026**.
+
+20.6. Last updated: **June 4, 2026**.
+
+---
+
 *E-mail: admin@apexnodes.xyz*

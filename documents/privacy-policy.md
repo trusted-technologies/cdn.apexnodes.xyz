@@ -1,313 +1,305 @@
-# Polityka Prywatności
+# Privacy Policy
 
-## 1. Informacje ogólne i podstawy prawne
+## 1. General information and legal basis
 
-Niniejsza Polityka Prywatności określa zasady przetwarzania i ochrony danych osobowych użytkowników serwisu **apexnodes.xyz** oraz powiązanych usług (dalej: "Serwis"), prowadzonego przez **Trusted Technologies Sp. z o.o.** z siedzibą w Częstochowie, wpisaną do rejestru przedsiębiorców Krajowego Rejestru Sądowego prowadzonego przez Sąd Rejonowy w Częstochowie, XVII Wydział Gospodarczy Krajowego Rejestru Sądowego, pod numerem KRS: **0001242922**, NIP: **5732973199**, REGON: **544825601**, o kapitale zakładowym w wysokości **5 000,00 PLN** (dalej: "Administrator").
+This Privacy Policy sets out the rules for the processing and protection of personal data of users of the **apexnodes.xyz** service and related services (hereinafter: the "Service").
 
-Administrator przetwarza dane osobowe zgodnie z:
-- Rozporządzeniem Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych (RODO);
-- Ustawą z dnia 10 maja 2018 r. o ochronie danych osobowych (Dz.U. z 2024 r. poz. 349);
-- Ustawą z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz.U. z 2024 r. poz. 149);
-- Ustawą z dnia 16 lipca 2004 r. — Prawo telekomunikacyjne (Dz.U. z 2024 r. poz. 485).
+We process personal data in accordance with:
+- Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data (GDPR);
+- Applicable national laws on data protection and electronic services.
 
-**Dane kontaktowe Administratora:**
-- Adres: ul. Łódzka 8/12, lok. 8.18, 42-202 Częstochowa, Polska
+**Contact details:**
 - E-mail: **admin@apexnodes.xyz**
 
-Administrator nie wyznaczył Inspektora Ochrony Danych (IOD), ponieważ przetwarzanie danych nie spełnia kryteriów obowiązku wyznaczenia IOD na mocy art. 37 RODO.
+---
+
+## 2. Definitions
+
+For the purposes of this Privacy Policy, the following definitions apply:
+
+- **GDPR** — Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016.
+- **Personal data** — any information relating to an identified or identifiable natural person;
+- **Processing** — any operation or set of operations performed on personal data;
+- **User** — a natural person using the Service to whom the data relates;
+- **Processor** — an entity processing personal data on our behalf;
+- **Personal data breach** — a breach of security leading to accidental or unlawful destruction, loss, alteration, unauthorized disclosure of, or access to personal data;
+- **Consent** — a freely given, specific, informed, and unambiguous indication of wishes;
+- **Profiling** — any form of automated processing of personal data;
+- **Cookie** — a text file saved by the browser on the User's device.
 
 ---
 
-## 2. Definicje
+## 3. Scope and sources of collected personal data
 
-Na potrzeby niniejszej Polityki stosuje się następujące definicje:
+### 3.1. Data voluntarily provided by the User
 
-- **RODO** — Rozporządzenie Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r.
-- **Dane osobowe** — wszelkie informacje o zidentyfikowanej lub możliwej do zidentyfikowania osobie fizycznej;
-- **Przetwarzanie** — operacja lub zestaw operacji wykonywanych na danych osobowych;
-- **Użytkownik** — osoba fizyczna korzystająca z Serwisu, której dane dotyczą;
-- **Podmiot przetwarzający** — podmiot przetwarzający dane osobowe w imieniu Administratora;
-- **Naruszenie ochrony danych osobowych** — naruszenie bezpieczeństwa prowadzące do przypadkowego lub niezgodnego z prawem zniszczenia, utracenia, zmodyfikowania, nieuprawnionego ujawnienia lub nieuprawnionego dostępu do danych;
-- **Zgoda** — dobrowolne, konkretne, świadome i jednoznaczne wyrażenie woli;
-- **Profilowanie** — dowolna forma zautomatyzowanego przetwarzania danych osobowych;
-- **Cookie** — plik tekstowy zapisywany przez przeglądarkę na urządzeniu Użytkownika.
+During account registration and placing orders in the Service, the User provides the following personal data:
+
+| Data category | Description | Required |
+|---|---|---|
+| **Identification data** | First name, last name | First name — yes, last name — no |
+| **Contact data** | E-mail address, phone number | Yes |
+| **Address data** | Main address (street, number), city, state/region, postal code, country | Yes |
+| **Company data** | Company name, tax ID/VAT number | No (required for business orders) |
+| **Payment data** | Information about completed payments (processed exclusively by payment operators) | Yes (for payment) |
+
+### 3.2. Data collected automatically
+
+When using the Service, data is also collected automatically:
+
+| Data category | Description | Purpose |
+|---|---|---|
+| **IP address** | User's public IP address | Security, logs, fraud prevention |
+| **Technical data** | Browser type, operating system, screen resolution | Improving Service functionality |
+| **Activity data** | Access logs, order history, API requests | Technical support, billing, security |
+| **Location data** | Approximate location based on IP address | Account security, detecting unauthorized access |
+
+### 3.3. Data from third parties
+
+We may receive User data from third parties, in particular:
+- Payment operators — transaction status, payment confirmation;
+- External service providers (e.g., hCaptcha) — anti-bot verification;
+- Domain registrars (eNom) — data necessary for domain registration.
+
+### 3.4. Special categories of data
+
+We **do not process** special categories of personal data within the meaning of Article 9 GDPR (data on racial or ethnic origin, religious beliefs, sex life, health, trade union membership, etc.).
 
 ---
 
-## 3. Zakres i źródła zbieranych danych osobowych
+## 4. Purposes and legal basis for processing
 
-### 3.1. Dane podawane dobrowolnie przez Użytkownika
+Users' personal data is processed for the following purposes and on the following legal bases:
 
-W trakcie rejestracji konta oraz składania zamówień w Serwisie, Użytkownik podaje następujące dane osobowe:
-
-| Kategoria danych | Opis | Obowiązkowe |
+| Purpose of processing | Legal basis (GDPR) | Detailed description |
 |---|---|---|
-| **Dane identyfikacyjne** | Imię, nazwisko | Imię — tak, nazwisko — nie |
-| **Dane kontaktowe** | Adres e-mail, numer telefonu | Tak |
-| **Dane adresowe** | Główny adres (ulica, numer), miasto, województwo/region, kod pocztowy, kraj | Tak |
-| **Dane firmowe** | Nazwa firmy, NIP/identyfikator podatkowy | Nie (wymagane przy zamówieniu na firmę) |
-| **Dane płatnicze** | Informacje o dokonanych płatnościach (przetwarzane wyłącznie przez operatorów płatności) | Tak (przy płatności) |
-
-### 3.2. Dane zbierane automatycznie
-
-Podczas korzystania z Serwisu zbierane są również dane w sposób automatyczny:
-
-| Kategoria danych | Opis | Cel |
-|---|---|---|
-| **Adres IP** | Publiczny adres IP Użytkownika | Bezpieczeństwo, logi, zapobieganie oszustwom |
-| **Dane techniczne** | Typ przeglądarki, system operacyjny, rozdzielczość ekranu | Poprawa funkcjonalności Serwisu |
-| **Dane o aktywności** | Logi dostępu, historia zamówień, żądania do API | Obsługa techniczna, rozliczenia, bezpieczeństwo |
-| **Dane lokalizacyjne** | Przybliżona lokalizacja na podstawie adresu IP | Zabezpieczenie konta, wykrywanie nieautoryzowanego dostępu |
-
-### 3.3. Dane od podmiotów zewnętrznych
-
-Administrator może otrzymywać dane Użytkownika od podmiotów trzecich, w szczególności:
-- Operatorów płatności — status transakcji, potwierdzenie płatności;
-- Usługodawców zewnętrznych (np. hCaptcha) — weryfikacja przeciwdziałania botom;
-- Rejestratorów domen (eNom) — dane niezbędne do rejestracji domeny.
-
-### 3.4. Szczególne kategorie danych
-
-Administrator **nie przetwarza** szczególnych kategorii danych osobowych w rozumieniu art. 9 RODO (dane o pochodzeniu rasowym, przekonaniach religijnych, życiu seksualnym, zdrowiu, przynależności związkowej itp.).
+| **Provision of hosting services** | Art. 6(1)(b) — performance of a contract | Account registration, service activation, server management, technical support |
+| **Payment processing** | Art. 6(1)(b) — performance of a contract | Order processing, invoicing, payment handling by external operators |
+| **Domain registration** | Art. 6(1)(b) — performance of a contract | Transferring data to the eNom registrar for domain registration |
+| **Security and fraud prevention** | Art. 6(1)(f) — legitimate interest | Identity verification, abuse detection, protection against unauthorized access, log analysis |
+| **Own marketing** | Art. 6(1)(f) — legitimate interest | Sending information about services, promotions, and news (possibility to opt out) |
+| **Analysis and statistics** | Art. 6(1)(a) — consent | Analysis of traffic and User behavior using Google Analytics |
+| **Legal requirements** | Art. 6(1)(c) — legal obligation | Issuing VAT invoices, keeping accounting records, responding to authority requests |
+| **Contact and support** | Art. 6(1)(b) — performance of a contract / (f) — legitimate interest | Responding to inquiries, handling technical tickets |
+| **Automated decision-making and profiling** | Art. 6(1)(f) — legitimate interest | See section 9 |
 
 ---
 
-## 4. Cele i podstawy prawne przetwarzania
+## 5. Recipients of data and processors
 
-Dane osobowe Użytkowników przetwarzane są w następujących celach i na podstawach prawnych:
+Users' personal data may be disclosed to the following categories of recipients:
 
-| Cel przetwarzania | Podstawa prawna (RODO) | Szczegółowy opis |
+### 5.1. Processors
+
+Entities acting on our behalf with whom data processing agreements have been concluded:
+
+| Entity | Location | Service |
 |---|---|---|
-| **Świadczenie usług hostingowych** | Art. 6 ust. 1 lit. b — wykonanie umowy | Rejestracja konta, aktywacja usług, zarządzanie serwerami, wsparcie techniczne |
-| **Realizacja płatności** | Art. 6 ust. 1 lit. b — wykonanie umowy | Przetwarzanie zamówień, fakturowanie, obsługa płatności przez zewnętrznych operatorów |
-| **Rejestracja domen** | Art. 6 ust. 1 lit. b — wykonanie umowy | Przekazanie danych rejestratorowi eNom w celu rejestracji domeny |
-| **Bezpieczeństwo i zapobieganie oszustwom** | Art. 6 ust. 1 lit. f — prawnie uzasadniony interes | Weryfikacja tożsamości, wykrywanie nadużyć, ochrona przed nieautoryzowanym dostępem, analiza logów |
-| **Marketing własny** | Art. 6 ust. 1 lit. f — prawnie uzasadniony interes | Wysyłka informacji o usługach, promocjach i nowościach (możliwość rezygnacji) |
-| **Analiza i statystyka** | Art. 6 ust. 1 lit. a — zgoda | Analiza ruchu i zachowań Użytkowników za pomocą Google Analytics |
-| **Wymogi prawne** | Art. 6 ust. 1 lit. c — obowiązek prawny | Wystawianie faktur VAT, prowadzenie ksiąg rachunkowych, reagowanie na żądania organów |
-| **Kontakt i obsługa** | Art. 6 ust. 1 lit. b — wykonanie umowy / lit. f — prawnie uzasadniony interes | Odpowiadanie na zapytania, obsługa zgłoszeń technicznych |
-| **Automatyczne decyzje i profilowanie** | Art. 6 ust. 1 lit. f — prawnie uzasadniony interes | Patrz sekcja 9 |
+| **Cloudflare, Inc.** | USA | DDoS protection, performance optimization, DNS |
+| **StormWall LLC** | — | Network traffic filtering, DDoS protection |
+| **GitHub, Inc.** | USA | Hosting of Service static resources |
+| **OVHcloud** | France, Germany, Poland | Servers and hosting infrastructure |
+| **Hetzner Online GmbH** | Germany | Dedicated servers |
+| **LIM DC** | Poland | Data center in Poland |
+| **msk.sh** | — | Server provider in CIS countries |
+| **Intuition Machines, Inc. (hCaptcha)** | USA | Anti-bot verification |
+| **Google LLC** | USA | Statistics analysis (Google Analytics) — only after consent |
 
----
+### 5.2. Payment operators
 
-## 5. Odbiorcy danych i podmioty przetwarzające
+Payments are processed by external operators. Payment data (card numbers, bank account details) are not stored by us — they are processed exclusively by payment operators:
 
-Dane osobowe Użytkowników mogą być udostępniane następującym kategoriom odbiorców:
-
-### 5.1. Podmioty przetwarzające (procesorzy)
-
-Podmioty działające na zlecenie Administratora, z którymi zawarte zostały umowy powierzenia przetwarzania danych:
-
-| Podmiot | Siedziba | Usługa |
+| Operator | Location | Payment methods |
 |---|---|---|
-| **Cloudflare, Inc.** | USA | Ochrona przed atakami DDoS, optymalizacja wydajności, DNS |
-| **StormWall LLC** | — | Filtrowanie ruchu sieciowego, ochrona przed atakami DDoS |
-| **GitHub, Inc.** | USA | Hosting zasobów statycznych Serwisu |
-| **OVHcloud** | Francja, Niemcy, Polska | Serwery i infrastruktura hostingowa |
-| **Hetzner Online GmbH** | Niemcy | Serwery dedykowane |
-| **LIM DC** | Polska | Centrum danych w Polsce |
-| **msk.sh** | — | Dostawca serwerów w krajach poradzieckich (CIS) |
-| **Intuition Machines, Inc. (hCaptcha)** | USA | Weryfikacja antybotowa |
-| **Google LLC** | USA | Analiza statystyk (Google Analytics) — wyłącznie po wyrażeniu zgody |
+| **LAVA** | — | Online payments |
+| **Monobank** | Ukraine | Bank payments |
+| **Stripe, Inc.** | USA | Card payments |
+| **2328.io** | — | Cryptocurrency payments |
+| **Heleket** | — | Online payments |
+| **CryptoBot** | — | Payments via Telegram |
+| **LZT Market (Lolzteam)** | — | Alternative payments |
 
-### 5.2. Operatorzy płatności
+### 5.3. Domain registrars
 
-Płatności realizowane są przez zewnętrznych operatorów. Dane płatnicze (numery kart, dane kont bankowych) nie są przechowywane przez Administratora — przetwarzają je wyłącznie operatorzy płatności:
-
-| Operator | Siedziba | Metody płatności |
-|---|---|---|
-| **LAVA** | — | Płatności online |
-| **Monobank** | Ukraina | Płatności bankowe |
-| **Stripe, Inc.** | USA | Płatności kartowe |
-| **2328.io** | — | Płatności kryptowalutowe |
-| **Heleket** | — | Płatności online |
-| **CryptoBot** | — | Płatności przez Telegram |
-| **LZT Market (Lolzteam)** | — | Płatności alternatywne |
-
-### 5.3. Rejestratorzy domen
-
-| Podmiot | Cel |
+| Entity | Purpose |
 |---|---|
-| **eNom (Tucows Inc.)** | Rejestracja i zarządzanie domenami — konieczne przekazanie danych WHOIS Użytkownika |
+| **eNom (Tucows Inc.)** | Domain registration and management — necessary transfer of User WHOIS data |
 
-### 5.4. Inni odbiorcy
+### 5.4. Other recipients
 
-- **Organy władzy publicznej** — na podstawie obowiązujących przepisów prawa (sądy, organy ścigania, UODO);
-- **Podmioty świadczące usługi prawne i księgowe** — doradcy prawni, księgowi, biegli rewidentzy;
-- **Firmy windykacyjne** — w przypadku zaległości płatniczych;
-- **Ubezpieczyciele** — w zakresie niezbędnym do zawarcia i wykonania umów ubezpieczenia.
-
----
-
-## 6. Przekazywanie danych poza Europejski Obszar Gospodarczy (EOG)
-
-Niektóre dane osobowe mogą być przekazywane do państw trzecich (poza EOG), w szczególności do **Stanów Zjednoczonych** (Google LLC, Cloudflare, Inc., GitHub, Inc., Stripe, Inc.) oraz na **terytorium krajów poradzieckich (CIS)** w związku z realizacją usług serwerowych przez msk.sh.
-
-Administrator zapewnia, że wszelkie przekazywanie danych poza EOG odbywa się z zachowaniem odpowiednich zabezpieczeń:
-- **Standardowe klauzule umowne (SCC)** zatwierdzone przez Komisję Europejską;
-- **Certyfikacje i mechanizmy** zgodne z decyzjami wykonawczymi Komisji Europejskiej;
-- W przypadku przekazywania danych do podmiotów amerykańskich — stosowane są odpowiednie środki uzupełniające zgodnie z wytycznymi EDSB.
-
-Szczegółowe informacje o zabezpieczeniach przy transgranicznym przekazywaniu danych można uzyskać kontaktując się z Administratorem pod adresem: **admin@apexnodes.xyz**.
+- **Public authorities** — based on applicable laws (courts, law enforcement agencies, data protection authorities);
+- **Legal and accounting service providers** — lawyers, accountants, auditors;
+- **Debt collection companies** — in the event of payment arrears;
+- **Insurers** — to the extent necessary for the conclusion and performance of insurance contracts.
 
 ---
 
-## 7. Okres przechowywania danych
+## 6. Transfer of data outside the European Economic Area (EEA)
 
-Dane osobowe przechowywane są przez okres niezbędny do realizacji celów, dla których zostały zebrane, a po tym czasie — przez okres wymagany przepisami prawa lub do czasu przedawnienia roszczeń.
+Some personal data may be transferred to third countries (outside the EEA), in particular to the **United States** (Google LLC, Cloudflare, Inc., GitHub, Inc., Stripe, Inc.) and to the **territory of CIS countries** in connection with the provision of server services by msk.sh.
 
-| Kategoria danych | Okres przechowywania | Uzasadnienie |
+We ensure that any transfer of data outside the EEA takes place with appropriate safeguards:
+- **Standard Contractual Clauses (SCC)** approved by the European Commission;
+- **Certifications and mechanisms** in line with European Commission implementing decisions;
+- In the case of transfers to US entities — appropriate supplementary measures are applied in accordance with EDPB guidelines.
+
+Detailed information on safeguards for cross-border data transfers can be obtained by contacting us at: **admin@apexnodes.xyz**.
+
+---
+
+## 7. Data retention periods
+
+Personal data is stored for the period necessary to achieve the purposes for which it was collected, and thereafter — for the period required by law or until claims become time-barred.
+
+| Data category | Retention period | Justification |
 |---|---|---|
-| Dane konta i zamówień | **6 lat** od końca roku kalendarzowego, w którym upłynął termin płatności | Ustawa o podatku od towarów i usług (faktury VAT), przedawnienie roszczeń |
-| Logi systemowe (IP, aktywność) | **12 miesięcy** | Bezpieczeństwo, zapobieganie oszustwom, wykrywanie nadużyć |
-| Korespondencja e-mail | **3 lata** | Prawnie uzasadniony interes (możliwość udowodnienia faktów) |
-| Dane rejestracji domen | **Przez okres ważności domeny + 1 rok** | Obowiązki wobec rejestratora domen |
-| Dane nieaktywnych kont | **30 dni** od momentu usunięcia konta | Możliwość przywrócenia usługi |
-| Dane archiwalne (backup) | **Do 30 dni** od momentu usunięcia danych z systemu produkcyjnego | Ochrona przed przypadkową utratą |
+| Account and order data | **6 years** from the end of the calendar year in which the payment deadline expired | VAT law, limitation of claims |
+| System logs (IP, activity) | **12 months** | Security, fraud prevention, abuse detection |
+| E-mail correspondence | **3 years** | Legitimate interest (ability to prove facts) |
+| Domain registration data | **For the validity period of the domain + 1 year** | Obligations to the domain registrar |
+| Inactive account data | **30 days** from account deletion | Possibility of service restoration |
+| Archival data (backup) | **Up to 30 days** from deletion of data from the production system | Protection against accidental loss |
 
-Po upływie okresów przechowywania dane są nieodwracalnie usuwane lub anonimizowane.
-
----
-
-## 8. Prawa użytkowników
-
-Zgodnie z RODO, każdemu Użytkownikowi przysługują następujące prawa:
-
-### 8.1. Prawo dostępu do danych (art. 15 RODO)
-
-Użytkownik ma prawo uzyskać od Administratora informację, czy jego dane osobowe są przetwarzane, a jeżeli tak — prawo dostępu do tych danych oraz następujących informacji: cele przetwarzania, kategorie danych, odbiorcy, okres przechowywania, źródło danych, zautomatyzowane podejmowanie decyzji.
-
-### 8.2. Prawo do sprostowania danych (art. 16 RODO)
-
-Użytkownik ma prawo żądania niezwłocznego sprostowania dotyczących go danych osobowych, które są nieprawidłowe. Użytkownik może również uzupełnić swoje dane za pośrednictwem panelu klienta WHMCS lub kontaktując się z Administratorem.
-
-### 8.3. Prawo do usunięcia danych ("prawo do bycia zapomnianym") (art. 17 RODO)
-
-Użytkownik ma prawo żądania usunięcia danych w następujących przypadkach:
-- dane nie są już niezbędne do celów, dla których zostały zebrane;
-- Użytkownik wycofał zgodę;
-- Użytkownik wniósł sprzeciw;
-- dane były przetwarzane niezgodnie z prawem;
-- dane muszą zostać usunięte w celu wywiązania się z obowiązku prawnego.
-
-Prawo do usunięcia danych nie ma zastosowania w zakresie, w jakim przetwarzanie jest niezbędne do wywiązania się z obowiązku prawnego lub do ustalenia, dochodzenia lub obrony roszczeń.
-
-### 8.4. Prawo do ograniczenia przetwarzania (art. 18 RODO)
-
-Użytkownik ma prawo żądania ograniczenia przetwarzania danych w przypadkach określonych w art. 18 RODO, w szczególności gdy kwestionuje prawidłowość danych lub wniósł sprzeciw.
-
-### 8.5. Prawo do przenoszenia danych (art. 20 RODO)
-
-Użytkownik ma prawo otrzymać swoje dane w ustrukturyzowanym, powszechnie używanym formacie nadającym się do odczytu maszynowego oraz przesłać te dane innemu administratorowi.
-
-### 8.6. Prawo do sprzeciwu (art. 21 RODO)
-
-Użytkownik ma prawo w dowolnym momencie wnieść sprzeciw wobec przetwarzania danych opartego na prawnie uzasadnionym interesie Administratora (art. 6 ust. 1 lit. f RODO), w tym w szczególności wobec profilowania. Administrator przestanie przetwarzać dane w tym celu, chyba że wykaże istnienie ważnych prawnie uzasadnionych podstaw do przetwarzania, nadrzędnych wobec interesów, praw i wolności Użytkownika, lub podstaw do ustalenia, dochodzenia lub obrony roszczeń.
-
-W przypadku przetwarzania danych do celów marketingu bezpośredniego, Użytkownik ma prawo wnieść sprzeciw w dowolnym momencie, a po jego wniesieniu Administrator niezwłocznie przestanie przetwarzać dane w tym celu.
-
-### 8.7. Prawo do wycofania zgody
-
-Jeżeli przetwarzanie odbywa się na podstawie zgody, Użytkownik ma prawo wycofać ją w dowolnym momencie. Wycofanie zgody nie wpływa na zgodność z prawem przetwarzania, którego dokonano na podstawie zgody przed jej wycofaniem.
-
-### 8.8. Prawo wniesienia skargi
-
-Użytkownik ma prawo wnieść skargę do Prezesa Urzędu Ochrony Danych Osobowych (UODO), ul. Stawki 2, 00-193 Warszawa, gdy uzna, że przetwarzanie danych osobowych narusza przepisy RODO.
-
-### 8.9. Jak realizować prawa?
-
-Wszystkie żądania dotyczące realizacji praw należy kierować na adres e-mail: **admin@apexnodes.xyz** lub na adres korespondencyjny Administratora.
-
-Administrator udzieli odpowiedzi na żądanie **w terminie 30 dni** od daty jego otrzymania. W przypadku skomplikowanych żądań lub dużej liczby żądań termin może ulec przedłużeniu o kolejne 60 dni, o czym Użytkownik zostanie poinformowany.
+After the retention periods expire, data is irreversibly deleted or anonymized.
 
 ---
 
-## 9. Zautomatyzowane podejmowanie decyzji i profilowanie
+## 8. Users' rights
 
-Administrator stosuje zautomatyzowane podejmowanie decyzji i profilowanie danych osobowych w następujących celach:
+Under the GDPR, each User has the following rights:
 
-| Cel | Opis mechanizmu | Konsekwencje |
+### 8.1. Right of access (Art. 15 GDPR)
+
+The User has the right to obtain from us information on whether his or her personal data is being processed, and if so, the right to access that data and the following information: purposes of processing, categories of data, recipients, retention period, source of data, automated decision-making.
+
+### 8.2. Right to rectification (Art. 16 GDPR)
+
+The User has the right to request the immediate rectification of personal data concerning him or her that is inaccurate. The User may also supplement his or her data via the WHMCS client panel or by contacting us.
+
+### 8.3. Right to erasure ("right to be forgotten") (Art. 17 GDPR)
+
+The User has the right to request deletion of data in the following cases:
+- the data is no longer necessary for the purposes for which it was collected;
+- the User has withdrawn consent;
+- the User has objected;
+- the data was processed unlawfully;
+- the data must be deleted to comply with a legal obligation.
+
+The right to erasure does not apply to the extent that processing is necessary to comply with a legal obligation or to establish, exercise, or defend claims.
+
+### 8.4. Right to restriction of processing (Art. 18 GDPR)
+
+The User has the right to request restriction of processing in the cases specified in Art. 18 GDPR, in particular when contesting the accuracy of data or having objected.
+
+### 8.5. Right to data portability (Art. 20 GDPR)
+
+The User has the right to receive his or her data in a structured, commonly used, machine-readable format and to transmit that data to another controller.
+
+### 8.6. Right to object (Art. 21 GDPR)
+
+The User has the right to object at any time to the processing of personal data based on our legitimate interest (Art. 6(1)(f) GDPR), including profiling. We will cease processing for this purpose unless we demonstrate compelling legitimate grounds for processing that override the interests, rights, and freedoms of the User, or grounds for establishing, exercising, or defending claims.
+
+If data is processed for direct marketing purposes, the User has the right to object at any time, and after objection is raised, we will immediately cease processing for this purpose.
+
+### 8.7. Right to withdraw consent
+
+If processing is based on consent, the User has the right to withdraw it at any time. Withdrawal of consent does not affect the lawfulness of processing based on consent before its withdrawal.
+
+### 8.8. Right to lodge a complaint
+
+The User has the right to lodge a complaint with the relevant data protection authority if he or she considers that the processing of personal data violates GDPR provisions.
+
+### 8.9. How to exercise rights?
+
+All requests regarding the exercise of rights should be sent to the e-mail address: **admin@apexnodes.xyz**.
+
+We will respond to the request **within 30 days** of receiving it. In the case of complex requests or a large number of requests, this period may be extended by a further 60 days, of which the User will be informed.
+
+---
+
+## 9. Automated decision-making and profiling
+
+We use automated decision-making and profiling of personal data for the following purposes:
+
+| Purpose | Mechanism description | Consequences |
 |---|---|---|
-| **Ochrona przed oszustwami i nadużyciami** | Algorytmy analizują wzorce logowania, adresy IP, częstotliwość żądań i historię płatności w celu wykrycia podejrzanej aktywności | Możliwość tymczasowego zablokowania konta lub wymóg dodatkowej weryfikacji |
-| **Weryfikacja antybotowa** | System hCaptcha ocenia ryzyko automatycznego dostępu na podstawie zachowań użytkownika | Odmowa dostępu lub wymóg rozwiązania wyzwania CAPTCHA |
-| **Automatyczne powiadomienia** | System generuje automatyczne powiadomienia o końcu okresu usługi, przekroczeniu limitów zasobów, zaległościach płatniczych | Wysyłka wiadomości e-mail, automatyczne zawieszenie lub usunięcie usługi przy braku płatności |
-| **Klasyfikacja ryzyka** | Algorytmy oceniają ryzyko płatnicze na podstawie historii transakcji, geolokalizacji i metody płatności | Możliwość wymogu przedpłaty lub odrzucenia transakcji |
+| **Fraud and abuse protection** | Algorithms analyze login patterns, IP addresses, request frequency, and payment history to detect suspicious activity | Possible temporary account blocking or requirement for additional verification |
+| **Anti-bot verification** | The hCaptcha system assesses the risk of automated access based on user behavior | Access denial or requirement to solve a CAPTCHA challenge |
+| **Automatic notifications** | The system generates automatic notifications about service expiration, resource limit exceedances, payment arrears | E-mail sending, automatic suspension or deletion of service in case of non-payment |
+| **Risk classification** | Algorithms assess payment risk based on transaction history, geolocation, and payment method | Possibility of requiring prepayment or rejecting the transaction |
 
-Użytkownik ma prawo do:
-- wyrażenia opinii w sprawie opisanego wyżej przetwarzania;
-- wniesienia sprzeciwu wobec przetwarzania opartego na zautomatyzowanym podejmowaniu decyzji;
-- uzyskania interwencji człowieka po stronie Administratora;
-- zapoznania się z podstawami zastosowanej decyzji.
+The User has the right to:
+- express an opinion on the processing described above;
+- object to processing based on automated decision-making;
+- obtain human intervention on our side;
+- learn about the basis of the decision applied.
 
-W celu skorzystania z powyższych praw należy kontaktować się pod adresem: **admin@apexnodes.xyz**.
-
----
-
-## 10. Bezpieczeństwo danych osobowych
-
-Administrator wdrożył odpowiednie środki techniczne i organizacyjne zapewniające ochronę danych osobowych:
-
-### 10.1. Środki techniczne
-
-- **Szyfrowanie SSL/TLS** — wszystkie połączenia z Serwisem i panelami klienta (WHMCS, Pterodactyl, SolusVM, ISPmanager, phpMyAdmin) odbywają się za pośrednictwem szyfrowanych protokołów (HTTPS, TLS 1.2+);
-- **Szyfrowanie baz danych** — dane wrażliwe przechowywane są w formie zaszyfrowanej;
-- **Kryptograficznie bezpieczne tokeny** — identyfikatory sesji generowane są przy użyciu bezpiecznych algorytmów kryptograficznych;
-- **Zabezpieczenie infrastruktury** — serwery zlokalizowane w certyfikowanych centrach danych (LIM DC, OVH) oraz w siedzibie Administratora w Częstochowie;
-- **Kopie zapasowe** — regularne backupy danych z możliwością przywrócenia;
-- **Segmentacja sieci** — izolacja systemów od sieci publicznej;
-- **Monitorowanie i logowanie** — ciągły monitoring dostępu do systemów i infrastruktury.
-
-### 10.2. Środki organizacyjne
-
-- **Ograniczenie dostępu** — dostęp do danych osobowych mają wyłącznie upoważnione osoby;
-- **Polityka haseł** — wymóg stosowania silnych haseł i uwierzytelniania wieloskładnikowego (MFA) w panelach administracyjnych;
-- **Szkolenia** — osoby mające dostęp do danych przeszły odpowiednie szkolenia z zakresu ochrony danych;
-- **Procedury incydentowe** — wdrożone procedury reagowania na naruszenia ochrony danych osobowych;
-- **Regularne audyty** — okresowe przeglądy zabezpieczeń i polityk dostępu.
+To exercise the above rights, please contact us at: **admin@apexnodes.xyz**.
 
 ---
 
-## 11. Naruszenia ochrony danych osobowych
+## 10. Security of personal data
 
-W przypadku stwierdzenia naruszenia ochrony danych osobowych, które może skutkować wysokim ryzykiem dla praw i wolności osób fizycznych, Administrator:
+We have implemented appropriate technical and organizational measures to ensure the protection of personal data:
 
-- niezwłocznie, nie później niż w ciągu **72 godzin** od momentu uzyskania o takim naruszeniu wiedzy, zgłasza naruszenie Prezesowi UODO;
-- dokumentuje wszystkie naruszenia ochrony danych osobowych;
-- informuje Użytkowników o naruszeniu, jeżeli może ono pociągać za sobą wysokie ryzyko dla ich praw i wolności.
+### 10.1. Technical measures
 
----
+- **SSL/TLS encryption** — all connections to the Service and client panels (WHMCS, Pterodactyl, SolusVM, ISPmanager, phpMyAdmin) take place via encrypted protocols (HTTPS, TLS 1.2+);
+- **Database encryption** — sensitive data is stored in encrypted form;
+- **Cryptographically secure tokens** — session identifiers are generated using secure cryptographic algorithms;
+- **Infrastructure security** — servers located in certified data centers (LIM DC, OVH);
+- **Backups** — regular data backups with the possibility of restoration;
+- **Network segmentation** — isolation of systems from the public network;
+- **Monitoring and logging** — continuous monitoring of access to systems and infrastructure.
 
-## 12. Ciasteczka (cookies) i technologie śledzące
+### 10.2. Organizational measures
 
-Szczegółowe informacje o plikach cookies stosowanych w Serwisie — rodzajach, celach, okresie przechowywania oraz podmiotach je stosujących — znajdują się w odrębnym dokumencie: **Polityce Cookies**, dostępnej pod adresem: **https://cdn.apexnodes.xyz/documents/cookie-policy**.
-
----
-
-## 13. Zmiany Polityki Prywatności
-
-Administrator zastrzega sobie prawo do wprowadzania zmian w niniejszej Polityce Prywatności. O wszelkich istotnych zmianach Użytkownicy zostaną poinformowani poprzez:
-
-- opublikowanie zaktualizowanej wersji Polityki w Serwisie;
-- wysłanie powiadomienia e-mail na adres kontaktowy przypisany do konta (w przypadku istotnych zmian dotyczących zakresu lub celów przetwarzania);
-- komunikat w panelu klienta WHMCS przy kolejnym logowaniu.
-
-Ostatnia aktualizacja: **04 czerwca 2026 r.**
+- **Access restriction** — only authorized persons have access to personal data;
+- **Password policy** — requirement to use strong passwords and multi-factor authentication (MFA) in administrative panels;
+- **Training** — persons with access to data have undergone appropriate data protection training;
+- **Incident procedures** — implemented procedures for responding to personal data breaches;
+- **Regular audits** — periodic reviews of security and access policies.
 
 ---
 
-## 14. Postanowienia końcowe
+## 11. Personal data breaches
 
-14.1. W sprawach nieuregulowanych niniejszą Polityką zastosowanie mają przepisy prawa polskiego oraz prawa Unii Europejskiej, w szczególności RODO.
+In the event of a personal data breach likely to result in a high risk to the rights and freedoms of natural persons, we will:
 
-14.2. Administrator dołożył należytych starań, aby niniejsza Polityka była zrozumiała i przejrzysta dla Użytkowników. W przypadku pytań lub wątpliwości prosimy o kontakt pod adresem: **admin@apexnodes.xyz**.
-
-14.3. Korzystanie z Serwisu po opublikowaniu zmian w Polityce oznacza ich akceptację. W przypadku braku akceptacji zmian Użytkownik powinien zaprzestać korzystania z Serwisu i usunąć swoje konto.
-
-14.4. Polityka Prywatności obowiązuje od dnia **04 czerwca 2026 r.** i ma zastosowanie do wszystkich Użytkowników Serwisu.
+- notify the relevant data protection authority without undue delay, and where feasible, not later than **72 hours** after becoming aware of the breach;
+- document all personal data breaches;
+- inform Users of the breach if it may result in a high risk to their rights and freedoms.
 
 ---
 
-*Trusted Technologies Sp. z o.o.*
-*ul. Łódzka 8/12, lok. 8.18, 42-202 Częstochowa*
-*KRS: 0001242922 | NIP: 5732973199 | REGON: 544825601*
+## 12. Cookies and tracking technologies
+
+Detailed information about cookies used on the Service — their types, purposes, retention periods, and the entities using them — is contained in a separate document: the **Cookie Policy**, available at: **https://cdn.apexnodes.xyz/documents/cookie-policy**.
+
+---
+
+## 13. Changes to the Privacy Policy
+
+We reserve the right to make changes to this Privacy Policy. Users will be informed of any significant changes by:
+
+- publishing the updated Policy on the Service;
+- sending an e-mail notification to the contact address assigned to the account (in the case of significant changes to the scope or purposes of processing);
+- a message in the WHMCS client panel upon next login.
+
+Last updated: **June 4, 2026**
+
+---
+
+## 14. Final provisions
+
+14.1. In matters not regulated by this Policy, the provisions of applicable law, including the GDPR, shall apply.
+
+14.2. We have made every effort to ensure that this Policy is understandable and transparent for Users. If you have any questions or doubts, please contact us at: **admin@apexnodes.xyz**.
+
+14.3. Using the Service after changes to the Policy are published constitutes acceptance of those changes. If you do not accept the changes, you should stop using the Service and delete your account.
+
+14.4. This Privacy Policy is effective from **June 4, 2026** and applies to all Users of the Service.
+
+---
+
 *E-mail: admin@apexnodes.xyz*
